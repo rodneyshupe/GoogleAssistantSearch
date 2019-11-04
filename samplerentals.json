@@ -1,0 +1,5393 @@
+{
+  "properties": [{
+      "id": 1257272515,
+      "prop_status": "for_rent",
+      "permalink": "1893-Marquez-Way_Corona_CA_92881_M12572-72515",
+      "listings": [{
+        "address": {
+          "city": "Corona",
+          "line": "1893 Marquez Way",
+          "postal_code": "92881",
+          "state": "California",
+          "state_code": "CA",
+          "country": "USA",
+          "county": ""
+        },
+        "advertisers": [{
+            "email": "dan@ocexclusives.com",
+            "href": "http://www.danielfinder.com",
+            "id": 1290233264,
+            "advertiser_id": 1368860,
+            "nrdsid": "205540693",
+            "name": "Dan Finder",
+            "phone": [{
+                "number": "(949) 545-2037",
+                "type": "office"
+              },
+              {
+                "number": "(323) 217-9999",
+                "type": "mobile"
+              },
+              {
+                "number": "(949) 545-2000",
+                "type": "broker"
+              }
+            ],
+            "photo": {
+              "href": "http://p.rdcpix.com/v02/a1ce31400-c0s.jpg"
+            },
+            "type": "agent",
+            "broker_logo": "http://p.rdcpix.com/v02/a1ce31400-c0l.jpg"
+          },
+          {
+            "email": "info@surterreproperties.com",
+            "href": "http://www.surterreproperties.com",
+            "id": 1290059669,
+            "advertiser_id": 1440883,
+            "name": "Surterre Properties - Monarch",
+            "phone": [{
+              "number": "(949) 545-2000",
+              "type": "office"
+            }],
+            "photo": {
+              "href": "http://p.rdcpix.com/v02/o73fc1500-c0s.gif"
+            },
+            "address": {
+              "city": "Dana Point",
+              "state_code": "CA",
+              "state": "California"
+            },
+            "type": "office"
+          }
+        ],
+        "baths": 3,
+        "baths_full": 3,
+        "baths_half": 0,
+        "beds": 4,
+        "data_flags": [
+          "internet_remarks",
+          "suppress_map_pin",
+          "suppress_foreclosure",
+          "suppress_agent"
+        ],
+        "id": 606047608,
+        "is_senior": false,
+        "list_date": "2017-06-13T07:00:00.000Z",
+        "lot_sqft": 0,
+        "mls": {
+          "id": "OC17132788",
+          "abbreviation": "MRCA",
+          "name": "CRMLS"
+        },
+        "photo_count": 26,
+        "photos": [{
+            "href": "http://ap.rdcpix.com/263675578/1def149e4a7ea37361e78c45e77bbaf3l-m0s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/196098859/1def149e4a7ea37361e78c45e77bbaf3l-m1s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1220202034/1def149e4a7ea37361e78c45e77bbaf3l-m2s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/385076464/1def149e4a7ea37361e78c45e77bbaf3l-m3s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/312379492/1def149e4a7ea37361e78c45e77bbaf3l-m4s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/338865226/1def149e4a7ea37361e78c45e77bbaf3l-m5s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/396695033/1def149e4a7ea37361e78c45e77bbaf3l-m6s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1014592728/1def149e4a7ea37361e78c45e77bbaf3l-m7s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/337778673/1def149e4a7ea37361e78c45e77bbaf3l-m8s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1234364058/1def149e4a7ea37361e78c45e77bbaf3l-m9s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/839073672/1def149e4a7ea37361e78c45e77bbaf3l-m10s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1255487469/1def149e4a7ea37361e78c45e77bbaf3l-m11s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/941482928/1def149e4a7ea37361e78c45e77bbaf3l-m12s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/627157676/1def149e4a7ea37361e78c45e77bbaf3l-m13s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1728919145/1def149e4a7ea37361e78c45e77bbaf3l-m14s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/514099977/1def149e4a7ea37361e78c45e77bbaf3l-m15s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/2074855769/1def149e4a7ea37361e78c45e77bbaf3l-m16s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/2140008021/1def149e4a7ea37361e78c45e77bbaf3l-m17s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/990947354/1def149e4a7ea37361e78c45e77bbaf3l-m18s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/2081109874/1def149e4a7ea37361e78c45e77bbaf3l-m19s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1447869603/1def149e4a7ea37361e78c45e77bbaf3l-m20s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/44158824/1def149e4a7ea37361e78c45e77bbaf3l-m21s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/2037739073/1def149e4a7ea37361e78c45e77bbaf3l-m22s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1409961000/1def149e4a7ea37361e78c45e77bbaf3l-m23s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1644786419/1def149e4a7ea37361e78c45e77bbaf3l-m24s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/322809420/1def149e4a7ea37361e78c45e77bbaf3l-m25s.jpg"
+          }
+        ],
+        "price": 2800,
+        "product_code": 536870912,
+        "products": [
+          "core.broker"
+        ],
+        "prop_type": "condo",
+        "raw_products": [
+          "social_bios"
+        ],
+        "reduced": false,
+        "source": "mls",
+        "sqft": 2497,
+        "status": "active",
+        "udb_id": 1182073457,
+        "virtual_tour": {
+          "count": 1,
+          "href": "http://www.danielfinder.com"
+        }
+      }]
+    },
+    {
+      "id": 2948680008,
+      "prop_status": "for_rent",
+      "permalink": "1325-Camelot-Dr_Corona_CA_92882_M29486-80008",
+      "listings": [{
+        "address": {
+          "city": "Corona",
+          "line": "1325 Camelot Dr",
+          "lat": 33.867946,
+          "long": -117.594698,
+          "postal_code": "92882",
+          "state": "California",
+          "state_code": "CA",
+          "country": "USA",
+          "county": "Riverside"
+        },
+        "advertisers": [{
+            "id": 1581159291,
+            "advertiser_id": 2740410,
+            "name": "Top Producer AWS Customer",
+            "phone": [{
+              "number": "(951) 736-0991",
+              "type": "office"
+            }],
+            "type": "agent"
+          },
+          {
+            "href": "www.goodehomemanagement.com",
+            "id": 1580408258,
+            "advertiser_id": 2919134,
+            "name": "Goode Home Management",
+            "phone": [{
+              "number": "(951) 736-0991",
+              "type": "mobile"
+            }],
+            "address": {
+              "city": "Corona",
+              "state_code": "CA",
+              "state": "California"
+            },
+            "type": "office"
+          }
+        ],
+        "baths": 2,
+        "baths_full": 1,
+        "baths_half": 1,
+        "beds": 2,
+        "data_flags": [
+          "internet_remarks",
+          "suppress_foreclosure",
+          "suppress_agent"
+        ],
+        "id": 604776976,
+        "is_senior": false,
+        "list_date": "2017-05-03T07:00:00.000Z",
+        "mls": {
+          "id": "IG17092050",
+          "abbreviation": "MRCA",
+          "name": "CRMLS"
+        },
+        "neighborhoods": [{
+          "id": "4236528",
+          "name": "Central Corona",
+          "level": "macro_neighborhood"
+        }],
+        "photo_count": 5,
+        "photos": [{
+            "href": "http://ap.rdcpix.com/1671601832/c94ddf59739ecfed403c0f2ab75ac710l-m0s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1426185904/c94ddf59739ecfed403c0f2ab75ac710l-m1s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1826805151/c94ddf59739ecfed403c0f2ab75ac710l-m2s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1928214826/c94ddf59739ecfed403c0f2ab75ac710l-m3s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1426422566/c94ddf59739ecfed403c0f2ab75ac710l-m4s.jpg"
+          }
+        ],
+        "price": 1550,
+        "prop_type": "condo",
+        "reduced": false,
+        "school_catchments": [{
+            "id": "0bbd24037b237bdc545b2b76146ef34534f01ac5",
+            "name": "Coronita Elementary School"
+          },
+          {
+            "id": "3b0e53f1c6fe93eab4e40f69fedda8df7d687798",
+            "name": "Orange Grove High School"
+          },
+          {
+            "id": "a70802222f253274278a53cdb7f1e81c86ce884c",
+            "name": "Corona Fundamental Intermediate School"
+          },
+          {
+            "id": "ef031bb4f29df99bb8bd44299f58338fce45ef95",
+            "name": "Letha Raney Intermediate School"
+          },
+          {
+            "id": "fb119ae157a912ef35a5eb5af47c6bb7598cfdc7",
+            "name": "Corona High School"
+          }
+        ],
+        "school_districts": [{
+          "id": "9ee14bea79253256897e451f911622a318a3efd2",
+          "name": "Corona-Norco Unified School District"
+        }],
+        "source": "mls",
+        "sqft": 1000,
+        "status": "active",
+        "udb_id": 1180736901
+      }]
+    },
+    {
+      "id": 1145864651,
+      "prop_status": "for_rent",
+      "permalink": "1440-Chalgrove-Dr-Unit-H_Corona_CA_92882_M11458-64651",
+      "listings": [{
+        "address": {
+          "city": "Corona",
+          "line": "1440 Chalgrove Dr Unit H",
+          "lat": 33.865881,
+          "long": -117.598512,
+          "postal_code": "92882",
+          "state": "California",
+          "state_code": "CA",
+          "country": "USA",
+          "county": "Riverside"
+        },
+        "advertisers": [{
+            "email": "yoshiko.proulx@gmail.com",
+            "id": 1193322619,
+            "advertiser_id": 1818472,
+            "nrdsid": "160005223",
+            "name": "Yoshiko Proulx",
+            "phone": [{
+                "number": "(951) 371-6700",
+                "type": "office"
+              },
+              {
+                "number": "(951) 990-0431",
+                "type": "office"
+              }
+            ],
+            "type": "agent"
+          },
+          {
+            "id": 1192296428,
+            "advertiser_id": 859758,
+            "name": "Landmark Funding & Realty",
+            "phone": [{
+                "number": "(951)371-6700",
+                "type": "office"
+              },
+              {
+                "number": "(951)582-2702",
+                "type": "fax"
+              }
+            ],
+            "address": {
+              "city": "Corona",
+              "state_code": "CA",
+              "state": "California"
+            },
+            "type": "office"
+          }
+        ],
+        "baths": 2,
+        "baths_full": 2,
+        "baths_half": 0,
+        "beds": 2,
+        "data_flags": [
+          "internet_remarks",
+          "suppress_foreclosure",
+          "suppress_agent"
+        ],
+        "id": 605467092,
+        "is_senior": false,
+        "list_date": "2017-06-10T07:00:00.000Z",
+        "mls": {
+          "id": "IG17120585",
+          "abbreviation": "MRCA",
+          "name": "CRMLS"
+        },
+        "neighborhoods": [{
+          "id": "4236528",
+          "name": "Central Corona",
+          "level": "macro_neighborhood"
+        }],
+        "photo_count": 13,
+        "photos": [{
+            "href": "http://ap.rdcpix.com/830563175/315c9006f7857c9378dd733d980462e3l-m0s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1815242710/315c9006f7857c9378dd733d980462e3l-m1s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1891586084/315c9006f7857c9378dd733d980462e3l-m2s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1212187817/315c9006f7857c9378dd733d980462e3l-m3s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/358967252/315c9006f7857c9378dd733d980462e3l-m4s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/2105316951/315c9006f7857c9378dd733d980462e3l-m5s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1355546329/315c9006f7857c9378dd733d980462e3l-m6s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1852563007/315c9006f7857c9378dd733d980462e3l-m7s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1605500235/315c9006f7857c9378dd733d980462e3l-m8s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/925903983/315c9006f7857c9378dd733d980462e3l-m9s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/815654257/315c9006f7857c9378dd733d980462e3l-m10s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/599517033/315c9006f7857c9378dd733d980462e3l-m11s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1255772321/315c9006f7857c9378dd733d980462e3l-m12s.jpg"
+          }
+        ],
+        "price": 1650,
+        "prop_type": "condo",
+        "reduced": false,
+        "school_catchments": [{
+            "id": "0bbd24037b237bdc545b2b76146ef34534f01ac5",
+            "name": "Coronita Elementary School"
+          },
+          {
+            "id": "3b0e53f1c6fe93eab4e40f69fedda8df7d687798",
+            "name": "Orange Grove High School"
+          },
+          {
+            "id": "a70802222f253274278a53cdb7f1e81c86ce884c",
+            "name": "Corona Fundamental Intermediate School"
+          },
+          {
+            "id": "ef031bb4f29df99bb8bd44299f58338fce45ef95",
+            "name": "Letha Raney Intermediate School"
+          },
+          {
+            "id": "fb119ae157a912ef35a5eb5af47c6bb7598cfdc7",
+            "name": "Corona High School"
+          }
+        ],
+        "school_districts": [{
+          "id": "9ee14bea79253256897e451f911622a318a3efd2",
+          "name": "Corona-Norco Unified School District"
+        }],
+        "source": "mls",
+        "sqft": 1040,
+        "status": "active",
+        "udb_id": 1181575684
+      }]
+    },
+    {
+      "id": 2233071623,
+      "prop_status": "for_rent",
+      "permalink": "880-Robles-Pl_Corona_CA_92882_M22330-71623",
+      "listings": [{
+        "address": {
+          "city": "Corona",
+          "line": "880 Robles Pl",
+          "lat": 33.875562,
+          "long": -117.600446,
+          "postal_code": "92882",
+          "state": "California",
+          "state_code": "CA",
+          "country": "USA",
+          "county": "Riverside"
+        },
+        "advertisers": [{
+            "id": 1194130353,
+            "phone": [{
+                "number": "(951)279-8989",
+                "type": "office"
+              },
+              {
+                "number": "(951)279-5430",
+                "type": "fax"
+              }
+            ],
+            "type": "agent"
+          },
+          {
+            "email": "jennynam@newstarrealty.com",
+            "href": "www.newstarrealty.com",
+            "id": 1192296283,
+            "advertiser_id": 147715,
+            "name": "Era New Star Realty & Investment",
+            "phone": [{
+              "number": "(909) 279-8989",
+              "type": "office"
+            }],
+            "address": {
+              "city": "Corona",
+              "state_code": "CA",
+              "state": "California"
+            },
+            "type": "office"
+          }
+        ],
+        "baths": 2,
+        "baths_full": 2,
+        "baths_half": 0,
+        "beds": 3,
+        "data_flags": [
+          "internet_remarks",
+          "suppress_foreclosure",
+          "suppress_agent"
+        ],
+        "id": 605260228,
+        "is_senior": false,
+        "list_date": "2017-05-21T07:00:00.000Z",
+        "mls": {
+          "id": "IG17112925",
+          "abbreviation": "MRCA",
+          "name": "CRMLS"
+        },
+        "neighborhoods": [{
+          "id": "4236528",
+          "name": "Central Corona",
+          "level": "macro_neighborhood"
+        }],
+        "photo_count": 11,
+        "photos": [{
+            "href": "http://ap.rdcpix.com/2019264022/46c10d14b608f8494a67efe2769c04c7l-m0s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/2120610293/46c10d14b608f8494a67efe2769c04c7l-m1s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/2109694827/46c10d14b608f8494a67efe2769c04c7l-m2s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/587789171/46c10d14b608f8494a67efe2769c04c7l-m3s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1829628195/46c10d14b608f8494a67efe2769c04c7l-m4s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/27621324/46c10d14b608f8494a67efe2769c04c7l-m5s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/778136085/46c10d14b608f8494a67efe2769c04c7l-m6s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/2017917593/46c10d14b608f8494a67efe2769c04c7l-m7s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/300227404/46c10d14b608f8494a67efe2769c04c7l-m8s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/518873848/46c10d14b608f8494a67efe2769c04c7l-m9s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1376596430/46c10d14b608f8494a67efe2769c04c7l-m10s.jpg"
+          }
+        ],
+        "price": 1900,
+        "prop_type": "condo",
+        "reduced": false,
+        "school_catchments": [{
+            "id": "0bbd24037b237bdc545b2b76146ef34534f01ac5",
+            "name": "Coronita Elementary School"
+          },
+          {
+            "id": "3b0e53f1c6fe93eab4e40f69fedda8df7d687798",
+            "name": "Orange Grove High School"
+          },
+          {
+            "id": "a70802222f253274278a53cdb7f1e81c86ce884c",
+            "name": "Corona Fundamental Intermediate School"
+          },
+          {
+            "id": "ef031bb4f29df99bb8bd44299f58338fce45ef95",
+            "name": "Letha Raney Intermediate School"
+          },
+          {
+            "id": "fb119ae157a912ef35a5eb5af47c6bb7598cfdc7",
+            "name": "Corona High School"
+          }
+        ],
+        "school_districts": [{
+          "id": "9ee14bea79253256897e451f911622a318a3efd2",
+          "name": "Corona-Norco Unified School District"
+        }],
+        "source": "mls",
+        "sqft": 1497,
+        "status": "active",
+        "udb_id": 1181331570
+      }]
+    },
+    {
+      "id": 1030152189,
+      "prop_status": "for_rent",
+      "permalink": "799-Gianni-Dr-Unit-204_Corona_CA_92879_M10301-52189",
+      "listings": [{
+        "address": {
+          "city": "Corona",
+          "line": "799 Gianni Dr Unit 204",
+          "lat": 33.873109,
+          "long": -117.554962,
+          "postal_code": "92879",
+          "state": "California",
+          "state_code": "CA",
+          "country": "USA",
+          "county": "Riverside"
+        },
+        "advertisers": [{
+            "email": "yoshiko.proulx@gmail.com",
+            "id": 1193322619,
+            "advertiser_id": 1818472,
+            "nrdsid": "160005223",
+            "name": "Yoshiko Proulx",
+            "phone": [{
+                "number": "(951) 371-6700",
+                "type": "office"
+              },
+              {
+                "number": "(951) 990-0431",
+                "type": "office"
+              }
+            ],
+            "type": "agent"
+          },
+          {
+            "id": 1192296428,
+            "advertiser_id": 859758,
+            "name": "Landmark Funding & Realty",
+            "phone": [{
+                "number": "(951)371-6700",
+                "type": "office"
+              },
+              {
+                "number": "(951)582-2702",
+                "type": "fax"
+              }
+            ],
+            "address": {
+              "city": "Corona",
+              "state_code": "CA",
+              "state": "California"
+            },
+            "type": "office"
+          }
+        ],
+        "baths": 1,
+        "baths_full": 1,
+        "baths_half": 0,
+        "beds": 2,
+        "data_flags": [
+          "internet_remarks",
+          "suppress_foreclosure",
+          "suppress_agent"
+        ],
+        "id": 605974696,
+        "is_senior": false,
+        "list_date": "2017-06-09T07:00:00.000Z",
+        "mls": {
+          "id": "IG17130436",
+          "abbreviation": "MRCA",
+          "name": "CRMLS"
+        },
+        "neighborhoods": [{
+          "id": "4236528",
+          "name": "Central Corona",
+          "level": "macro_neighborhood"
+        }],
+        "photo_count": 10,
+        "photos": [{
+            "href": "http://ap.rdcpix.com/1958829466/a099dc9081fe5f70ee65306e6c2b2431l-m0s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1241946467/a099dc9081fe5f70ee65306e6c2b2431l-m1s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/441789845/a099dc9081fe5f70ee65306e6c2b2431l-m2s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/267987642/a099dc9081fe5f70ee65306e6c2b2431l-m3s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/79559029/a099dc9081fe5f70ee65306e6c2b2431l-m4s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1289318666/a099dc9081fe5f70ee65306e6c2b2431l-m5s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1371454124/a099dc9081fe5f70ee65306e6c2b2431l-m6s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/508581494/a099dc9081fe5f70ee65306e6c2b2431l-m7s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1042806396/a099dc9081fe5f70ee65306e6c2b2431l-m8s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/450618256/a099dc9081fe5f70ee65306e6c2b2431l-m9s.jpg"
+          }
+        ],
+        "price": 1250,
+        "prop_type": "condo",
+        "reduced": false,
+        "school_catchments": [{
+            "id": "60c9cfbc2b07aaa7612b3a05baf3760d872ac218",
+            "name": "Auburndale Intermediate School"
+          },
+          {
+            "id": "9893b97762b0470ea621191019a17f9d9c01b74b",
+            "name": "Lincoln Alternative Elementary School"
+          },
+          {
+            "id": "bb41ca6a0ebbb76c16e56c83f91feae0812b4ad8",
+            "name": "Garretson Elementary School"
+          },
+          {
+            "id": "e8e54047f258bde71fd6be7751840ca43a17bf8a",
+            "name": "Centennial High School"
+          }
+        ],
+        "school_districts": [{
+          "id": "9ee14bea79253256897e451f911622a318a3efd2",
+          "name": "Corona-Norco Unified School District"
+        }],
+        "source": "mls",
+        "sqft": 850,
+        "status": "active",
+        "udb_id": 1181995865
+      }]
+    },
+    {
+      "id": 1219367490,
+      "prop_status": "for_rent",
+      "permalink": "1980-Las-Colinas-Cir-Unit-201_Corona_CA_92879_M12193-67490",
+      "listings": [{
+        "address": {
+          "city": "Corona",
+          "line": "1980 Las Colinas Cir Unit 201",
+          "lat": 33.900486,
+          "long": -117.531927,
+          "postal_code": "92879",
+          "state": "California",
+          "state_code": "CA",
+          "country": "USA",
+          "county": "Riverside"
+        },
+        "advertisers": [{
+            "email": "kathy.taherian@gmail.com",
+            "href": "http://www.Taherian.Realtor",
+            "id": 1581180509,
+            "advertiser_id": 1956769,
+            "nrdsid": "205554678",
+            "name": "Kathy Taherian",
+            "phone": [{
+                "number": "(949) 527-8333",
+                "type": "mobile"
+              },
+              {
+                "number": "(949) 527-8333",
+                "type": "broker"
+              }
+            ],
+            "photo": {
+              "href": "http://p.rdcpix.com/v02/aa1db1d00-c0s.jpg"
+            },
+            "type": "agent",
+            "broker_logo": "http://p.rdcpix.com/v02/aa1db1d00-c0l.jpg"
+          },
+          {
+            "id": 1290087415,
+            "advertiser_id": 3006246,
+            "name": "Aspero Realty, Inc",
+            "phone": [{
+              "number": "(714) 352-6390",
+              "type": "mobile"
+            }],
+            "address": {
+              "city": "Irvine",
+              "state_code": "CA",
+              "state": "California"
+            },
+            "type": "office"
+          }
+        ],
+        "baths": 2,
+        "baths_full": 2,
+        "baths_half": 0,
+        "beds": 2,
+        "data_flags": [
+          "internet_remarks",
+          "suppress_foreclosure",
+          "suppress_agent"
+        ],
+        "id": 605377844,
+        "is_senior": false,
+        "list_date": "2017-05-26T07:00:00.000Z",
+        "mls": {
+          "id": "OC17117310",
+          "abbreviation": "MRCA",
+          "name": "CRMLS"
+        },
+        "neighborhoods": [{
+            "id": "4236563",
+            "name": "North Corona",
+            "level": "macro_neighborhood"
+          },
+          {
+            "id": "4236579",
+            "name": "Corona Ranch",
+            "level": "neighborhood"
+          }
+        ],
+        "photo_count": 15,
+        "photos": [{
+            "href": "http://ap.rdcpix.com/69417913/ea2e073ca39d90dc4ba358c389a2e66fl-m0s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/436974297/ea2e073ca39d90dc4ba358c389a2e66fl-m1s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1777891582/ea2e073ca39d90dc4ba358c389a2e66fl-m2s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/747434046/ea2e073ca39d90dc4ba358c389a2e66fl-m3s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1182676512/ea2e073ca39d90dc4ba358c389a2e66fl-m4s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/75562639/ea2e073ca39d90dc4ba358c389a2e66fl-m5s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/927166244/ea2e073ca39d90dc4ba358c389a2e66fl-m6s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1768832600/ea2e073ca39d90dc4ba358c389a2e66fl-m7s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/661308282/ea2e073ca39d90dc4ba358c389a2e66fl-m8s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/445815085/ea2e073ca39d90dc4ba358c389a2e66fl-m9s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/2055654141/ea2e073ca39d90dc4ba358c389a2e66fl-m10s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1536005404/ea2e073ca39d90dc4ba358c389a2e66fl-m11s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1911939640/ea2e073ca39d90dc4ba358c389a2e66fl-m12s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1819854806/ea2e073ca39d90dc4ba358c389a2e66fl-m13s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/233162864/ea2e073ca39d90dc4ba358c389a2e66fl-m14s.jpg"
+          }
+        ],
+        "price": 1650,
+        "prop_type": "condo",
+        "reduced": false,
+        "school_catchments": [{
+            "id": "3905121ae6c122a631ddf504cb42b0e0500974cb",
+            "name": "Norco High School"
+          },
+          {
+            "id": "3edb92ac57cc088604bbaed7b2ed5baf4acb5932",
+            "name": "William Mckinley Elementary School"
+          },
+          {
+            "id": "60c9cfbc2b07aaa7612b3a05baf3760d872ac218",
+            "name": "Auburndale Intermediate School"
+          },
+          {
+            "id": "7c8cd4e715fe7f157cb55aafdcb1edd4c1d8af12",
+            "name": "John F. Kennedy High School"
+          }
+        ],
+        "school_districts": [{
+          "id": "9ee14bea79253256897e451f911622a318a3efd2",
+          "name": "Corona-Norco Unified School District"
+        }],
+        "source": "mls",
+        "sqft": 1063,
+        "status": "active",
+        "udb_id": 1181475425
+      }]
+    },
+    {
+      "id": 1990637221,
+      "prop_status": "for_rent",
+      "permalink": "4280-Odyssey-Dr-Unit-101_Corona_CA_92883_M19906-37221",
+      "listings": [{
+        "address": {
+          "city": "Corona",
+          "line": "4280 Odyssey Dr Unit 101",
+          "postal_code": "92883",
+          "state": "California",
+          "state_code": "CA",
+          "country": "USA",
+          "county": ""
+        },
+        "advertisers": [{
+            "id": 1581397972,
+            "type": "agent"
+          },
+          {
+            "id": 1580480665,
+            "address": {},
+            "type": "office"
+          }
+        ],
+        "beds": 3,
+        "data_flags": [
+          "internet_remarks",
+          "suppress_map_pin",
+          "suppress_foreclosure",
+          "suppress_agent"
+        ],
+        "id": 605441632,
+        "is_senior": false,
+        "list_date": "2017-05-30T07:00:00.000Z",
+        "lot_sqft": 0,
+        "mls": {
+          "id": "OC17119487",
+          "abbreviation": "MRCA",
+          "name": "CRMLS"
+        },
+        "photo_count": 6,
+        "photos": [{
+            "href": "http://ap.rdcpix.com/1914628950/fe7e6530d74949dff644e0d5fcbe7c12l-m0s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/545350012/fe7e6530d74949dff644e0d5fcbe7c12l-m1s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1585084135/fe7e6530d74949dff644e0d5fcbe7c12l-m2s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/146450599/fe7e6530d74949dff644e0d5fcbe7c12l-m3s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1639963349/fe7e6530d74949dff644e0d5fcbe7c12l-m4s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1207531521/fe7e6530d74949dff644e0d5fcbe7c12l-m5s.jpg"
+          }
+        ],
+        "price": 2900,
+        "prop_type": "condo",
+        "reduced": false,
+        "source": "mls",
+        "sqft": 2421,
+        "status": "active",
+        "udb_id": 1181541371
+      }]
+    },
+    {
+      "id": 2274159660,
+      "prop_status": "for_rent",
+      "permalink": "5936-Silveira-St_Corona_CA_92880_M22741-59660",
+      "listings": [{
+        "address": {
+          "city": "Eastvale",
+          "line": "5936 Silveira St",
+          "postal_code": "92880",
+          "state": "California",
+          "state_code": "CA",
+          "country": "USA",
+          "county": ""
+        },
+        "advertisers": [{
+            "email": "tonylee1600@yahoo.com",
+            "id": 1290116026,
+            "advertiser_id": 1607088,
+            "nrdsid": "214008110",
+            "name": "YunQing Li",
+            "phone": [{
+                "number": "(626) 309-1900",
+                "type": "other"
+              },
+              {
+                "number": "(626) 264-7651",
+                "type": "mobile"
+              }
+            ],
+            "photo": {
+              "href": "http://p.rdcpix.com/v02/ab0851800-c0s.jpg"
+            },
+            "type": "agent",
+            "broker_logo": "http://p.rdcpix.com/v02/ab0851800-c0l.jpg"
+          },
+          {
+            "id": 1580392508,
+            "advertiser_id": 2857352,
+            "name": "Re/Max Masters",
+            "phone": [{
+              "number": "(909) 364-8380",
+              "type": "mobile"
+            }],
+            "address": {
+              "city": "Chino Hills",
+              "state_code": "CA",
+              "state": "California"
+            },
+            "type": "office"
+          }
+        ],
+        "baths": 3,
+        "baths_full": 3,
+        "baths_half": 0,
+        "beds": 4,
+        "data_flags": [
+          "internet_remarks",
+          "suppress_map_pin",
+          "suppress_foreclosure",
+          "suppress_agent"
+        ],
+        "id": 606006760,
+        "is_senior": false,
+        "list_date": "2017-06-10T07:00:00.000Z",
+        "mls": {
+          "id": "WS17131395",
+          "abbreviation": "MRCA",
+          "name": "CRMLS"
+        },
+        "permissions": {
+          "dogs": true,
+          "cats": true,
+          "dogs_small": true,
+          "dogs_large": true
+        },
+        "photo_count": 21,
+        "photos": [{
+            "href": "http://ap.rdcpix.com/1227355931/d1ccceaf94890cc274bdd69f71400d1dl-m0s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1728125562/d1ccceaf94890cc274bdd69f71400d1dl-m1s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/138582528/d1ccceaf94890cc274bdd69f71400d1dl-m2s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/394438213/d1ccceaf94890cc274bdd69f71400d1dl-m3s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/138582528/d1ccceaf94890cc274bdd69f71400d1dl-m4s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/42038880/d1ccceaf94890cc274bdd69f71400d1dl-m5s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1976802458/d1ccceaf94890cc274bdd69f71400d1dl-m6s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1290799981/d1ccceaf94890cc274bdd69f71400d1dl-m7s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1418608367/d1ccceaf94890cc274bdd69f71400d1dl-m8s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1755299792/d1ccceaf94890cc274bdd69f71400d1dl-m9s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/397542632/d1ccceaf94890cc274bdd69f71400d1dl-m10s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/83876716/d1ccceaf94890cc274bdd69f71400d1dl-m11s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/323183991/d1ccceaf94890cc274bdd69f71400d1dl-m12s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1586678863/d1ccceaf94890cc274bdd69f71400d1dl-m13s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1755299792/d1ccceaf94890cc274bdd69f71400d1dl-m14s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/602104365/d1ccceaf94890cc274bdd69f71400d1dl-m15s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/548083378/d1ccceaf94890cc274bdd69f71400d1dl-m16s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/11733383/d1ccceaf94890cc274bdd69f71400d1dl-m17s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1717155388/d1ccceaf94890cc274bdd69f71400d1dl-m18s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1881634693/d1ccceaf94890cc274bdd69f71400d1dl-m19s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/2015652671/d1ccceaf94890cc274bdd69f71400d1dl-m20s.jpg"
+          }
+        ],
+        "price": 2500,
+        "product_code": 536870912,
+        "prop_type": "condo",
+        "raw_products": [
+          "social_bios"
+        ],
+        "reduced": false,
+        "source": "mls",
+        "sqft": 2600,
+        "status": "active",
+        "udb_id": 1182021278
+      }]
+    },
+    {
+      "id": 2774317246,
+      "prop_status": "for_rent",
+      "permalink": "5946-Silveira-St_Eastvale_CA_92880_M27743-17246",
+      "listings": [{
+        "address": {
+          "city": "Eastvale",
+          "line": "5946 Silveira St",
+          "postal_code": "92880",
+          "state": "California",
+          "state_code": "CA",
+          "country": "USA",
+          "county": ""
+        },
+        "advertisers": [{
+            "email": "220254.lead@cendant.leadrouter.com",
+            "id": 1581314656,
+            "advertiser_id": 1891169,
+            "name": "Eric Lu",
+            "phone": [{
+                "number": "(626) 227-4908",
+                "type": "office"
+              },
+              {
+                "number": "(626) 810-6660",
+                "type": "broker"
+              }
+            ],
+            "type": "agent"
+          },
+          {
+            "email": "cbgeorge@fivestreet.me",
+            "href": "http://www.cbgeorgerealty.com",
+            "id": 1192294694,
+            "advertiser_id": 105768,
+            "name": "Coldwell Banker George Realty",
+            "phone": [{
+                "number": "(626) 810-6660",
+                "type": "office"
+              },
+              {
+                "number": "(800) 643-6743",
+                "type": "toll_free"
+              }
+            ],
+            "photo": {
+              "href": "http://ap.rdcpix.com/2138754351/9ac18ffe568e26b96bef06f3303ea1cdo-c0s.jpg"
+            },
+            "address": {
+              "city": "Rowland  Heights",
+              "state_code": "CA",
+              "state": "California"
+            },
+            "type": "office"
+          }
+        ],
+        "baths": 3,
+        "baths_full": 2,
+        "baths_half": 1,
+        "beds": 3,
+        "data_flags": [
+          "internet_remarks",
+          "suppress_map_pin",
+          "suppress_foreclosure",
+          "suppress_agent"
+        ],
+        "id": 605730236,
+        "is_senior": false,
+        "list_date": "2017-06-08T07:00:00.000Z",
+        "lot_sqft": 0,
+        "mls": {
+          "id": "TR17129558",
+          "abbreviation": "MRCA",
+          "name": "CRMLS"
+        },
+        "photo_count": 9,
+        "photos": [{
+            "href": "http://ap.rdcpix.com/1158284868/b1091cff9dbb5863a70390aba21cd92bl-m0s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1046628902/b1091cff9dbb5863a70390aba21cd92bl-m1s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1612253859/b1091cff9dbb5863a70390aba21cd92bl-m2s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/2025638639/b1091cff9dbb5863a70390aba21cd92bl-m3s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/508837783/b1091cff9dbb5863a70390aba21cd92bl-m4s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/849821183/b1091cff9dbb5863a70390aba21cd92bl-m5s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/548224904/b1091cff9dbb5863a70390aba21cd92bl-m6s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/904356424/b1091cff9dbb5863a70390aba21cd92bl-m7s.jpg"
+          },
+          {
+            "href": "http://ap.rdcpix.com/1240057854/b1091cff9dbb5863a70390aba21cd92bl-m8s.jpg"
+          }
+        ],
+        "price": 2400,
+        "product_code": 536870912,
+        "products": [
+          "core.agent",
+          "core.broker",
+          "listing_owner_lead.broker",
+          "listing_owner_brand.broker"
+        ],
+        "prop_type": "condo",
+        "raw_products": [
+          "social_bios"
+        ],
+        "reduced": false,
+        "source": "mls",
+        "sqft": 2194,
+        "status": "active",
+        "udb_id": 1181904312
+      }]
+    }
+  ],
+  "returned_rows": 9,
+  "matching_rows": 9,
+  "meta": {
+    "build": "3.0.0.0497.2e0baf3",
+    "debug": {
+      "userQuery": {
+        "client_id": "dev",
+        "debug": "true",
+        "type": "condo,townhome",
+        "prop_type": "condo,townhome"
+      },
+      "timing": {
+        "queryBuilder": 1,
+        "SolrQTime": 2,
+        "solrSearch": 7,
+        "mongoSearch": 23,
+        "mongoResultSort": 0,
+        "formatResponse": 11,
+        "facetCreation": 0,
+        "responseComposition": 0,
+        "totalMs": 42
+      },
+      "params": {
+        "client_id": "dev",
+        "debug": "true",
+        "type": "condo,townhome",
+        "prop_type": "condo,townhome"
+      },
+      "areaParams": {
+        "city": "Corona",
+        "state_code": "CA"
+      },
+      "minMaxParams": {
+        "beds_min": "2",
+        "beds_max": 999
+      },
+      "solrParams": {
+        "q": [
+          "(((city_search:\"Corona\" OR custom_search_area_search:\"Corona\") AND state_search:\"CA\"))"
+        ],
+        "fpq": [
+          "floor_plan_beds:[2 TO 999]"
+        ],
+        "rows": [
+          10
+        ],
+        "start": [
+          0
+        ],
+        "wt": [
+          "json"
+        ],
+        "fq": [
+          "document_type:parent",
+          "{!tag=listing_type_search}listing_type_search:(\"condo\" OR \"townhome\")",
+          "{!tag=listing_type_search}listing_type_search:(\"condo\" OR \"townhome\")",
+          "{!parent which=\"document_type:parent\"}(floor_plan_beds:[2 TO 999])"
+        ]
+      },
+      "solrCall": "http://solr-rentalsv2.admin.inf:8086/solr/core0/select?q=(((city_search%3A%22Corona%22%20OR%20custom_search_area_search%3A%22Corona%22)%20AND%20state_search%3A%22CA%22))&fq=document_type%3Aparent&fq=%7B!tag%3Dlisting_type_search%7Dlisting_type_search%3A(%22condo%22%20OR%20%22townhome%22)&fq=%7B!tag%3Dlisting_type_search%7Dlisting_type_search%3A(%22condo%22%20OR%20%22townhome%22)&fq=%7B!parent%20which%3D%22document_type%3Aparent%22%7D(floor_plan_beds%3A%5B2%20TO%20999%5D)&rows=10&wt=json&fl=master_listing_id",
+      "solrReply": {
+        "responseHeader": {
+          "status": 0,
+          "QTime": 2,
+          "params": {
+            "fl": "master_listing_id",
+            "q": "(((city_search:\"Corona\" OR custom_search_area_search:\"Corona\") AND state_search:\"CA\"))",
+            "wt": [
+              "json",
+              "json"
+            ],
+            "fq": [
+              "document_type:parent",
+              "{!tag=listing_type_search}listing_type_search:(\"condo\" OR \"townhome\")",
+              "{!tag=listing_type_search}listing_type_search:(\"condo\" OR \"townhome\")",
+              "{!parent which=\"document_type:parent\"}(floor_plan_beds:[2 TO 999])"
+            ],
+            "rows": "10"
+          }
+        },
+        "response": {
+          "numFound": 9,
+          "start": 0,
+          "docs": [{
+              "master_listing_id": "606047608"
+            },
+            {
+              "master_listing_id": "604776976"
+            },
+            {
+              "master_listing_id": "605467092"
+            },
+            {
+              "master_listing_id": "605260228"
+            },
+            {
+              "master_listing_id": "605974696"
+            },
+            {
+              "master_listing_id": "605377844"
+            },
+            {
+              "master_listing_id": "605441632"
+            },
+            {
+              "master_listing_id": "606006760"
+            },
+            {
+              "master_listing_id": "605730236"
+            }
+          ]
+        }
+      },
+      "mongoHash": {
+        "$and": [{
+            "$or": [{
+              "_id": {
+                "$in": [
+                  606047608,
+                  604776976,
+                  605467092,
+                  605260228,
+                  605974696,
+                  605377844,
+                  605441632,
+                  606006760,
+                  605730236
+                ]
+              }
+            }]
+          },
+          {
+            "listing.deleted": false
+          }
+        ]
+      },
+      "mongoResult": [{
+          "_id": 606047608,
+          "listing": {
+            "address": {
+              "city": "Corona",
+              "street_name": "Marquez",
+              "line": "1893 Marquez Way",
+              "postal_code": "92881",
+              "state": "California",
+              "state_code": "CA",
+              "country": "USA",
+              "county": "",
+              "geo_approximation": 0
+            },
+            "advertisers": [{
+                "email": "dan@ocexclusives.com",
+                "href": "http://www.danielfinder.com",
+                "id": 1290233264,
+                "advertiser_id": 1368860,
+                "billing_id": "2298696",
+                "nrdsid": "205540693",
+                "name": "Dan Finder",
+                "phone": [{
+                    "number": "(949) 545-2037",
+                    "type": "office"
+                  },
+                  {
+                    "number": "(323) 217-9999",
+                    "type": "mobile"
+                  },
+                  {
+                    "number": "(949) 545-2000",
+                    "type": "broker"
+                  }
+                ],
+                "photo": {
+                  "href": "http://p.rdcpix.com/v02/a1ce31400-c0s.jpg"
+                },
+                "type": "agent",
+                "sales_type": "agent",
+                "agent_system_id": "SFINDDAN",
+                "agent_system_id_short": "SFINDDAN",
+                "broker_logo": "http://p.rdcpix.com/v02/a1ce31400-c0l.jpg",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065831894
+                }
+              },
+              {
+                "email": "info@surterreproperties.com",
+                "href": "http://www.surterreproperties.com",
+                "id": 1290059669,
+                "advertiser_id": 1440883,
+                "billing_id": "2360829",
+                "name": "Surterre Properties - Monarch",
+                "phone": [{
+                  "number": "(949) 545-2000",
+                  "type": "office"
+                }],
+                "photo": {
+                  "href": "http://p.rdcpix.com/v02/o73fc1500-c0s.gif"
+                },
+                "address": {
+                  "city": "Dana Point",
+                  "state_code": "CA",
+                  "state": "California"
+                },
+                "slogan": "Orange County's Leading Luxury Real Estate Brokerage",
+                "type": "office",
+                "sales_type": "office",
+                "office_system_id": "J01632",
+                "office_system_id_short": "J01632",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065831392
+                }
+              }
+            ],
+            "baths": 3,
+            "baths_full": 3,
+            "baths_half": 0,
+            "beds": 4,
+            "contact": {
+              "email": "Dan@ocexclusives.com"
+            },
+            "custom_search_area": [
+              "Corona,CA|^2493"
+            ],
+            "data_flags": [
+              "internet_remarks",
+              "suppress_map_pin",
+              "suppress_foreclosure",
+              "suppress_agent"
+            ],
+            "deleted": false,
+            "description": "This beautifully designed newly constructed \"detached\" home sits behind the gated community of Terrassa and is distinctively positioned on a premier lot. This sophisticated home is nearly 2500 square feet with 4 bedrooms, 3 full bathrooms plus a generously sized play room/media area. Upon entrance, you are captivated by the real wood floors and high ceilings that invite in the natural light. The gourmet kitchen is emphasized by stainless steel appliances, an over-sized center island and granite counter tops which opens to the informal dining area and great room, that create a broad living space accentuated by large windows. The elegant master suite offers a grand walk-in closet, exquisite master bathroom with dual vanity sinks and a separate walk-in shower/tub. The low maintenance back yard allows for privacy with plenty of space to entertain. Additional features include; a main floor bedroom, recessed lighting, nicely sized 2 car garage with direct access, inside laundry room with an abundance of space and custom flooring throughout the entire home. This Terrassa community offers pool/jacuzzi, playground, and BBQ area.",
+            "features": [{
+                "category": "Bedrooms",
+                "text": [
+                  "Bedrooms: 4",
+                  "Main Level Bedrooms: 1"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Bathrooms",
+                "text": [
+                  "Full Bathrooms: 3",
+                  "Main Level Bathrooms: 1",
+                  "RoomBathroomFeatures: Bathtub, Shower, Double Sinks In Master Bath, Separate tub and shower"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Kitchen and Dining",
+                "text": [
+                  "RoomKitchenFeatures: Granite Counters, Kitchen Island, Kitchen Open to Family Room",
+                  "Family Kitchen"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Other rooms",
+                "text": [
+                  "Great Room",
+                  "Main Floor Bedroom"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Interior Features",
+                "text": [
+                  "High Ceilings (9 Feet+)",
+                  "Open Floor Plan",
+                  "Recessed Lighting",
+                  "Sliding Glass Door(s)",
+                  "Furnished: Furnished Or Unfurnished"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Building and Construction",
+                "text": [
+                  "Levels or Stories: 2"
+                ],
+                "parent_category": "Features"
+              },
+              {
+                "category": "Exterior and Lot Features",
+                "text": [
+                  "Back Yard",
+                  "Corner Lot",
+                  "Sprinklers In Front",
+                  "Walkstreet",
+                  "Fence YN: Yes",
+                  "Fencing: Excellent Condition, New Condition"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Waterfront and Water Access",
+                "text": [
+                  "Water Source: Public"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Garage and Parking",
+                "text": [
+                  "Number of Garage Spaces: 2",
+                  "Garage: Attached",
+                  "Driveway",
+                  "Garage",
+                  "Direct Garage Access",
+                  "Garage - Front Entry",
+                  "Garage Door Opener",
+                  "Street",
+                  "Parking Total: 2.00"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Heating and Cooling",
+                "text": [
+                  "Heating Features: Central Furnace",
+                  "Cooling Features: Central",
+                  "Heating YN: Yes",
+                  "Cooling YN: Yes"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Utilities",
+                "text": [
+                  "Sewer Paid",
+                  "Sprinklers: Yes"
+                ],
+                "parent_category": "Features"
+              },
+              {
+                "category": "Appliances",
+                "text": [
+                  "Inside",
+                  "On Upper Level",
+                  "Laundry YN: Yes",
+                  "Appliances YN: Yes",
+                  "Dishwasher",
+                  "Garbage Disposal"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Amenities and Community Features",
+                "text": [
+                  "Curbs",
+                  "Sidewalks",
+                  "Storm Drains",
+                  "Street Lighting",
+                  "Pool",
+                  "Spa"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Pool and Spa",
+                "text": [
+                  "Association",
+                  "Community Pool",
+                  "Spa: Yes"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "School Information",
+                "text": [
+                  "School District: Corona-Norco Unified"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Other Property Info",
+                "text": [
+                  "City: Corona",
+                  "State: CA",
+                  "Area: 248 - Corona",
+                  "County: Riverside",
+                  "Directions: 15 Frwy to El Cerrito, go West on El Cerrito, make your second right which is the entrance into the community. Go through the gates, then R on Villa Catalonia Ct. Follow around to Marquez Way, make a R, the home is on the L side.",
+                  "SecurityFeatures: Carbon Monoxide Detector(s), Gated Community, Smoke Detector",
+                  "Property Subtype: condo"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Listing Information",
+                "text": [
+                  "Listing Status: Active",
+                  "Listing Date: 2017-06-13 00:00:00",
+                  "Status Date: 2017-06-13 00:00:00.000"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Rental Info",
+                "text": [
+                  "Rent Includes: Association Dues, Gardener",
+                  "Deposit Pets: 1000"
+                ],
+                "parent_category": "Community"
+              }
+            ],
+            "garage": "2",
+            "id": 606047608,
+            "is_senior": false,
+            "last_refreshed": "2017-06-14T21:41:54.297Z",
+            "last_update": "2017-06-13T19:08:32.000Z",
+            "list_date": "2017-06-13T07:00:00.000Z",
+            "listing_provider_url": {
+              "url": "http://www.surterreproperties.com",
+              "type": "xadvertiser_url",
+              "level": "office"
+            },
+            "lot_sqft": 0,
+            "meta": {
+              "sign_rider": [{
+                "product_suppressions": true,
+                "sign_rider": {
+                  "href": "http://www.surterreproperties.com",
+                  "text": "Surterre Properties",
+                  "photo": {
+                    "href": "http://p.rdcpix.com/v02/f73fc1500-c0s.gif"
+                  }
+                }
+              }],
+              "control_flags": {
+                "_t": "ControlFlags",
+                "MlsSuppressionRules": {
+                  "datasource_id": 430,
+                  "suppress_mapping": false,
+                  "display_broker": false,
+                  "display_internet_remark": true,
+                  "suppress_address": false,
+                  "suppress_agent": true,
+                  "suppress_listing_sqft": false,
+                  "suppress_listing_date": false,
+                  "suppress_foreclosure": true,
+                  "suppress_sales_history": false,
+                  "suppress_tax_assessment": false,
+                  "suppress_sold_price": false,
+                  "suppress_recently_offmarket": false
+                }
+              },
+              "database_partition_id": 2,
+              "mpr_id": 1257272515,
+              "property_id": 111653663,
+              "listing_id": 33020491,
+              "master_listing_id": 606047608,
+              "datasource_id": 430,
+              "datasource_name": "    ",
+              "listing_last_modified_ts": 15065539995,
+              "se_last_modified_ts": 5961152308,
+              "version": "1.0.0.0",
+              "scoring_token": "1257272515",
+              "md5": "C836C3ABB3687555BEF139D011A434CA",
+              "date_added": "2017-06-14T08:01:42.431Z"
+            },
+            "mls": {
+              "id": "OC17132788",
+              "abbreviation": "MRCA",
+              "name": "CRMLS",
+              "disclaimer": {
+                "text": "© 2017, California Regional Multiple Listing Service, Inc.  All Rights Reserved."
+              }
+            },
+            "monthly_fees": {},
+            "normalized_features": [
+              "Corner Lot",
+              "Lease Option",
+              "Central Air",
+              "Forced Air",
+              "Two or More Stories",
+              "Garage - 2 or more",
+              "Garage - 1 or more",
+              "Community Swimming Pool(s)",
+              "Recreation Facilities",
+              "Central Heat"
+            ],
+            "parking": {},
+            "parsed_address": {
+              "city": "Corona"
+            },
+            "pet_policy": "no_policy",
+            "photo_count": 26,
+            "photos": [{
+                "href": "http://ap.rdcpix.com/263675578/1def149e4a7ea37361e78c45e77bbaf3l-m0s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/196098859/1def149e4a7ea37361e78c45e77bbaf3l-m1s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1220202034/1def149e4a7ea37361e78c45e77bbaf3l-m2s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/385076464/1def149e4a7ea37361e78c45e77bbaf3l-m3s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/312379492/1def149e4a7ea37361e78c45e77bbaf3l-m4s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/338865226/1def149e4a7ea37361e78c45e77bbaf3l-m5s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/396695033/1def149e4a7ea37361e78c45e77bbaf3l-m6s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1014592728/1def149e4a7ea37361e78c45e77bbaf3l-m7s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/337778673/1def149e4a7ea37361e78c45e77bbaf3l-m8s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1234364058/1def149e4a7ea37361e78c45e77bbaf3l-m9s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/839073672/1def149e4a7ea37361e78c45e77bbaf3l-m10s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1255487469/1def149e4a7ea37361e78c45e77bbaf3l-m11s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/941482928/1def149e4a7ea37361e78c45e77bbaf3l-m12s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/627157676/1def149e4a7ea37361e78c45e77bbaf3l-m13s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1728919145/1def149e4a7ea37361e78c45e77bbaf3l-m14s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/514099977/1def149e4a7ea37361e78c45e77bbaf3l-m15s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/2074855769/1def149e4a7ea37361e78c45e77bbaf3l-m16s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/2140008021/1def149e4a7ea37361e78c45e77bbaf3l-m17s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/990947354/1def149e4a7ea37361e78c45e77bbaf3l-m18s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/2081109874/1def149e4a7ea37361e78c45e77bbaf3l-m19s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1447869603/1def149e4a7ea37361e78c45e77bbaf3l-m20s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/44158824/1def149e4a7ea37361e78c45e77bbaf3l-m21s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/2037739073/1def149e4a7ea37361e78c45e77bbaf3l-m22s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1409961000/1def149e4a7ea37361e78c45e77bbaf3l-m23s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1644786419/1def149e4a7ea37361e78c45e77bbaf3l-m24s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/322809420/1def149e4a7ea37361e78c45e77bbaf3l-m25s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              }
+            ],
+            "price": 2800,
+            "price_history": [{
+              "date": "2017-06-13T16:13:16.527Z",
+              "price": 2800
+            }],
+            "product_code": 536870912,
+            "products": [
+              "core.broker"
+            ],
+            "prop_type": "condo",
+            "property": {
+              "id": 1257272515,
+              "prop_status": "for_rent",
+              "permalink": "1893-Marquez-Way_Corona_CA_92881_M12572-72515"
+            },
+            "provider_url": [{
+              "url": "http://www.surterreproperties.com",
+              "type": "xadvertiser_url",
+              "level": "office"
+            }],
+            "raw_products": [
+              "social_bios"
+            ],
+            "reduced": false,
+            "rex_codes": [
+              "EPPARK",
+              "CRFEAT",
+              "EPATTC",
+              "EUCORN",
+              "FLLSE",
+              "CSDIST",
+              "FAREA",
+              "ICOLFT",
+              "IHACEN",
+              "IHACNB",
+              "IHACNU",
+              "ESTOR",
+              "INTFTS",
+              "EP#GAR",
+              "EPGAR",
+              "Text_for_Directions",
+              "IFBA",
+              "ELOTFT",
+              "CRPOOL",
+              "IHETFT",
+              "IHACHT",
+              "IHACHB",
+              "IHACHU",
+              "IHEAT"
+            ],
+            "source": "mls",
+            "sqft": 2497,
+            "status": "active",
+            "status_id": 6,
+            "stories": "2",
+            "udb_id": 1182073457,
+            "virtual_tour": {
+              "count": 1,
+              "href": "http://www.danielfinder.com"
+            },
+            "year_built": 2016
+          }
+        },
+        {
+          "_id": 604776976,
+          "listing": {
+            "address": {
+              "city": "Corona",
+              "street_name": "Camelot",
+              "line": "1325 Camelot Dr",
+              "lat": 33.867946,
+              "long": -117.594698,
+              "postal_code": "92882",
+              "state": "California",
+              "state_code": "CA",
+              "country": "USA",
+              "county": "Riverside",
+              "geo_approximation": 8
+            },
+            "advertisers": [{
+                "id": 1581159291,
+                "advertiser_id": 2740410,
+                "billing_id": "3216702",
+                "name": "Top Producer AWS Customer",
+                "phone": [{
+                  "number": "(951) 736-0991",
+                  "type": "office"
+                }],
+                "type": "agent",
+                "sales_type": "agent",
+                "agent_system_id": "IGGOODCAR",
+                "agent_system_id_short": "IGGOODCAR",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065902732
+                }
+              },
+              {
+                "href": "www.goodehomemanagement.com",
+                "id": 1580408258,
+                "advertiser_id": 2919134,
+                "billing_id": "3375505",
+                "name": "Goode Home Management",
+                "phone": [{
+                  "number": "(951) 736-0991",
+                  "type": "mobile"
+                }],
+                "address": {
+                  "city": "Corona",
+                  "state_code": "CA",
+                  "state": "California"
+                },
+                "type": "office",
+                "sales_type": "office",
+                "office_system_id": "IGGHM02",
+                "office_system_id_short": "IGGHM02",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065900959
+                }
+              }
+            ],
+            "baths": 2,
+            "baths_full": 1,
+            "baths_half": 1,
+            "beds": 2,
+            "contact": {
+              "email": "goodehomemanagement@yahoo.com"
+            },
+            "custom_search_area": [
+              "Corona,CA|^2493"
+            ],
+            "data_flags": [
+              "internet_remarks",
+              "suppress_foreclosure",
+              "suppress_agent"
+            ],
+            "deleted": false,
+            "description": "Very cute condo that sits on an end unit. It has 2 bedrooms, 1 1/2 bath ( master bedroom has a toilet and sink and they share the main bathroom shower. Two patio's and one goes out to the 2 car garage for easy access into the house. Kitchen is large enough to have a table and chairs for a eat in area  There is a pool and lake facilities that tenant can use.  AVAILABLE END OF JUNE... DRIVE BY ONLY... DO NOT DISTURB TENANTS,PLEASE...",
+            "features": [{
+                "category": "Bedrooms",
+                "text": [
+                  "Bedrooms: 2",
+                  "Main Level Bedrooms: 2"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Bathrooms",
+                "text": [
+                  "Full Bathrooms: 1",
+                  "Half Bathrooms: 1",
+                  "Main Level Bathrooms: 2"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Kitchen and Dining",
+                "text": [
+                  "In Kitchen"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Other rooms",
+                "text": [
+                  "All Bedrooms Down"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Interior Features",
+                "text": [
+                  "Furnished: Unfurnished"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Building and Construction",
+                "text": [
+                  "Levels or Stories: 1",
+                  "Common Walls: 1 Common Wall",
+                  "Lot Square Footage: 2614.00"
+                ],
+                "parent_category": "Features"
+              },
+              {
+                "category": "Exterior and Lot Features",
+                "text": [
+                  "11-15 Units/Acre"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Waterfront and Water Access",
+                "text": [
+                  "Water Source: Public"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Garage and Parking",
+                "text": [
+                  "Number of Garage Spaces: 2",
+                  "Garage: Attached",
+                  "Parking Total: 2.00"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Heating and Cooling",
+                "text": [
+                  "Heating Features: Central Furnace",
+                  "Cooling Features: Central",
+                  "Heating YN: Yes",
+                  "Cooling YN: Yes"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Utilities",
+                "text": [
+                  "Sewer Connected"
+                ],
+                "parent_category": "Features"
+              },
+              {
+                "category": "Appliances",
+                "text": [
+                  "Individual Room",
+                  "Laundry YN: Yes",
+                  "Appliances YN: Yes",
+                  "Built In Range",
+                  "Dishwasher",
+                  "Garbage Disposal"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Amenities and Community Features",
+                "text": [
+                  "Curbs",
+                  "Sidewalks",
+                  "Street Lighting"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Pool and Spa",
+                "text": [
+                  "Association",
+                  "Community Pool"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "School Information",
+                "text": [
+                  "School District: Corona-Norco Unified"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Other Property Info",
+                "text": [
+                  "City: Corona",
+                  "State: CA",
+                  "Area: 248 - Corona",
+                  "County: Riverside",
+                  "Directions: Cross Streets: Border",
+                  "APN Number: 103171081",
+                  "Property Subtype: condo"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Listing Information",
+                "text": [
+                  "Listing Status: Active",
+                  "Listing Date: 2017-05-03 00:00:00",
+                  "Status Date: 2017-04-28 00:00:00.000"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Rental Info",
+                "text": [
+                  "Rent Includes: Association Dues, Gardener, Pool"
+                ],
+                "parent_category": "Community"
+              }
+            ],
+            "garage": "2",
+            "id": 604776976,
+            "is_senior": false,
+            "last_refreshed": "2017-06-14T21:41:54.297Z",
+            "last_update": "2017-05-03T20:56:47.000Z",
+            "list_date": "2017-05-03T07:00:00.000Z",
+            "listing_provider_url": {
+              "url": "www.goodehomemanagement.com",
+              "type": "office_url",
+              "level": "office"
+            },
+            "meta": {
+              "sign_rider": [{
+                "product_suppressions": true,
+                "sign_rider": null
+              }],
+              "control_flags": {
+                "_t": "ControlFlags",
+                "MlsSuppressionRules": {
+                  "datasource_id": 430,
+                  "suppress_mapping": false,
+                  "display_broker": false,
+                  "display_internet_remark": true,
+                  "suppress_address": false,
+                  "suppress_agent": true,
+                  "suppress_listing_sqft": false,
+                  "suppress_listing_date": false,
+                  "suppress_foreclosure": true,
+                  "suppress_sales_history": false,
+                  "suppress_tax_assessment": false,
+                  "suppress_sold_price": false,
+                  "suppress_recently_offmarket": false
+                }
+              },
+              "database_partition_id": 2,
+              "mpr_id": 2948680008,
+              "property_id": 6901617,
+              "listing_id": 32702827,
+              "master_listing_id": 604776976,
+              "datasource_id": 430,
+              "datasource_name": "    ",
+              "listing_last_modified_ts": 15062360663,
+              "se_last_modified_ts": 5960026885,
+              "version": "1.0.0.0",
+              "scoring_token": "2948680008",
+              "md5": "6BBC01D05465F0E5719A7CA73858F3E4",
+              "date_added": "2017-06-14T08:08:17.371Z"
+            },
+            "mls": {
+              "id": "IG17092050",
+              "abbreviation": "MRCA",
+              "name": "CRMLS",
+              "disclaimer": {
+                "text": "© 2017, California Regional Multiple Listing Service, Inc.  All Rights Reserved."
+              }
+            },
+            "monthly_fees": {},
+            "neighborhoods": [{
+              "id": "4236528",
+              "name": "Central Corona",
+              "level": "macro_neighborhood"
+            }],
+            "normalized_features": [
+              "Lease Option",
+              "Central Heat",
+              "Forced Air",
+              "Single Story",
+              "Garage - 2 or more",
+              "Garage - 1 or more",
+              "Community Swimming Pool(s)",
+              "Recreation Facilities",
+              "Central Air",
+              "Laundry Room"
+            ],
+            "parking": {},
+            "parsed_address": {
+              "city": "Corona"
+            },
+            "pet_policy": "no_policy",
+            "photo_count": 5,
+            "photos": [{
+                "href": "http://ap.rdcpix.com/1671601832/c94ddf59739ecfed403c0f2ab75ac710l-m0s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1426185904/c94ddf59739ecfed403c0f2ab75ac710l-m1s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1826805151/c94ddf59739ecfed403c0f2ab75ac710l-m2s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1928214826/c94ddf59739ecfed403c0f2ab75ac710l-m3s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1426422566/c94ddf59739ecfed403c0f2ab75ac710l-m4s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              }
+            ],
+            "price": 1550,
+            "price_history": [{
+              "date": "2017-05-03T20:58:43.310Z",
+              "price": 1550
+            }],
+            "prop_type": "condo",
+            "property": {
+              "id": 2948680008,
+              "prop_status": "for_rent",
+              "permalink": "1325-Camelot-Dr_Corona_CA_92882_M29486-80008"
+            },
+            "provider_url": [{
+              "url": "www.goodehomemanagement.com",
+              "type": "office_url",
+              "level": "office"
+            }],
+            "reduced": false,
+            "rex_codes": [
+              "CRFEAT",
+              "EPATTC",
+              "ParcelNumber",
+              "FLLSE",
+              "CSDIST",
+              "FAREA",
+              "IHETFT",
+              "IHACHT",
+              "IHACHB",
+              "IHACHU",
+              "IHEAT",
+              "ESTOR",
+              "EP#GAR",
+              "EPGAR",
+              "Text_for_Directions",
+              "IHBA",
+              "IFBA",
+              "ELOTFT",
+              "CRPOOL",
+              "ICOLFT",
+              "IHACEN",
+              "IHACNB",
+              "IHACNU",
+              "IRLDY"
+            ],
+            "school_catchments": [{
+                "id": "0bbd24037b237bdc545b2b76146ef34534f01ac5",
+                "name": "Coronita Elementary School"
+              },
+              {
+                "id": "3b0e53f1c6fe93eab4e40f69fedda8df7d687798",
+                "name": "Orange Grove High School"
+              },
+              {
+                "id": "a70802222f253274278a53cdb7f1e81c86ce884c",
+                "name": "Corona Fundamental Intermediate School"
+              },
+              {
+                "id": "ef031bb4f29df99bb8bd44299f58338fce45ef95",
+                "name": "Letha Raney Intermediate School"
+              },
+              {
+                "id": "fb119ae157a912ef35a5eb5af47c6bb7598cfdc7",
+                "name": "Corona High School"
+              }
+            ],
+            "school_districts": [{
+              "id": "9ee14bea79253256897e451f911622a318a3efd2",
+              "name": "Corona-Norco Unified School District"
+            }],
+            "source": "mls",
+            "sqft": 1000,
+            "status": "active",
+            "status_id": 6,
+            "stories": "1",
+            "udb_id": 1180736901,
+            "year_built": 1971
+          }
+        },
+        {
+          "_id": 605467092,
+          "listing": {
+            "address": {
+              "city": "Corona",
+              "street_name": "Chalgrove",
+              "line": "1440 Chalgrove Dr Unit H",
+              "lat": 33.865881,
+              "long": -117.598512,
+              "postal_code": "92882",
+              "state": "California",
+              "state_code": "CA",
+              "country": "USA",
+              "county": "Riverside",
+              "geo_approximation": 8
+            },
+            "advertisers": [{
+                "email": "yoshiko.proulx@gmail.com",
+                "id": 1193322619,
+                "advertiser_id": 1818472,
+                "billing_id": "2327577",
+                "nrdsid": "160005223",
+                "name": "Yoshiko Proulx",
+                "phone": [{
+                    "number": "(951) 371-6700",
+                    "type": "office"
+                  },
+                  {
+                    "number": "(951) 990-0431",
+                    "type": "office"
+                  }
+                ],
+                "type": "agent",
+                "sales_type": "agent",
+                "agent_system_id": "KPROUYOS",
+                "agent_system_id_short": "KPROUYOS",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065783356
+                }
+              },
+              {
+                "id": 1192296428,
+                "advertiser_id": 859758,
+                "billing_id": "1748386",
+                "name": "Landmark Funding & Realty",
+                "phone": [{
+                    "number": "(951)371-6700",
+                    "type": "office"
+                  },
+                  {
+                    "number": "(951)582-2702",
+                    "type": "fax"
+                  }
+                ],
+                "address": {
+                  "city": "Corona",
+                  "state_code": "CA",
+                  "state": "California"
+                },
+                "type": "office",
+                "sales_type": "office",
+                "office_system_id": "KSBL01",
+                "office_system_id_short": "KSBL01",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065782470
+                }
+              }
+            ],
+            "baths": 2,
+            "baths_full": 2,
+            "baths_half": 0,
+            "beds": 2,
+            "contact": {
+              "email": "yoshiko.proulx@gmail.com"
+            },
+            "custom_search_area": [
+              "Corona,CA|^2493"
+            ],
+            "data_flags": [
+              "internet_remarks",
+              "suppress_foreclosure",
+              "suppress_agent"
+            ],
+            "deleted": false,
+            "description": "Located in The Lakes at Corona community, this upstairs unit features 2 bedrooms, 2 baths, spacious living room, and upgraded kitchen with granite counters and eating area. A private balcony off the master bedroom. The unit comes with stackable washer/dryer, and refrigerator. One assigned carport and one open parking space with permit. Great amenities include community lake, pool, tennis courts, basketball courts, and much more. Convenient location close to downtown Corona, shopping, parks, and schools. Easy access to freeways.",
+            "features": [{
+                "category": "Bedrooms",
+                "text": [
+                  "Bedrooms: 2",
+                  "Main Level Bedrooms: 2"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Bathrooms",
+                "text": [
+                  "Full Bathrooms: 2",
+                  "Main Level Bathrooms: 2",
+                  "RoomBathroomFeatures: Granite Counters"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Kitchen and Dining",
+                "text": [
+                  "RoomKitchenFeatures: Granite Counters",
+                  "Area",
+                  "In Kitchen"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Other rooms",
+                "text": [
+                  "Kitchen",
+                  "Living Room",
+                  "Main Floor Master Bedroom",
+                  "Master Bathroom"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Interior Features",
+                "text": [
+                  "Carpet",
+                  "Tile",
+                  "Furnished: Unfurnished"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Building and Construction",
+                "text": [
+                  "Levels or Stories: 1",
+                  "Common Walls: 1 Common Wall",
+                  "Lot Square Footage: 1022.00"
+                ],
+                "parent_category": "Features"
+              },
+              {
+                "category": "Exterior and Lot Features",
+                "text": [
+                  "City Lights",
+                  "Landscaped",
+                  "Lawn",
+                  "Paved",
+                  "Patio And Porch Features: Terrace",
+                  "Patio YN: Yes"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Waterfront and Water Access",
+                "text": [
+                  "Water Source: Public"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Garage and Parking",
+                "text": [
+                  "Parking Total: 1.00",
+                  "Carport Spaces: 1.00"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Heating and Cooling",
+                "text": [
+                  "Cooling Features: Central",
+                  "Cooling YN: Yes"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Appliances",
+                "text": [
+                  "Dryer Included",
+                  "In Closet",
+                  "Stackable",
+                  "Washer Included",
+                  "Laundry YN: Yes"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Amenities and Community Features",
+                "text": [
+                  "Curbs",
+                  "Sidewalks",
+                  "Street Lighting"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Pool and Spa",
+                "text": [
+                  "Association",
+                  "In Ground",
+                  "Spa: Yes"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "School Information",
+                "text": [
+                  "School District: Corona-Norco Unified"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Other Property Info",
+                "text": [
+                  "City: Corona",
+                  "State: CA",
+                  "Area: 248 - Corona",
+                  "County: Riverside",
+                  "Directions: Cross street: Border Ave & Chalgrove Dr",
+                  "APN Number: 103152041",
+                  "Property Subtype: condo",
+                  "View: Yes"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Listing Information",
+                "text": [
+                  "Listing Status: Active",
+                  "Listing Date: 2017-06-10 00:00:00",
+                  "Status Date: 2017-05-30 00:00:00.000"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Rental Info",
+                "text": [
+                  "Rent Includes: Association Dues",
+                  "Deposit Pets: 500"
+                ],
+                "parent_category": "Community"
+              }
+            ],
+            "id": 605467092,
+            "is_senior": false,
+            "last_refreshed": "2017-06-14T21:41:54.297Z",
+            "last_update": "2017-06-11T01:16:09.000Z",
+            "list_date": "2017-06-10T07:00:00.000Z",
+            "meta": {
+              "sign_rider": [{
+                "product_suppressions": true,
+                "sign_rider": null
+              }],
+              "control_flags": {
+                "_t": "ControlFlags",
+                "MlsSuppressionRules": {
+                  "datasource_id": 430,
+                  "suppress_mapping": false,
+                  "display_broker": false,
+                  "display_internet_remark": true,
+                  "suppress_address": false,
+                  "suppress_agent": true,
+                  "suppress_listing_sqft": false,
+                  "suppress_listing_date": false,
+                  "suppress_foreclosure": true,
+                  "suppress_sales_history": false,
+                  "suppress_tax_assessment": false,
+                  "suppress_sold_price": false,
+                  "suppress_recently_offmarket": false
+                }
+              },
+              "database_partition_id": 2,
+              "mpr_id": 1145864651,
+              "property_id": 14269908,
+              "listing_id": 32875328,
+              "master_listing_id": 605467092,
+              "datasource_id": 430,
+              "datasource_name": "    ",
+              "listing_last_modified_ts": 15062417634,
+              "se_last_modified_ts": 5960044906,
+              "version": "1.0.0.0",
+              "scoring_token": "1145864651",
+              "md5": "8539696D16D0CC20D05DE602BEB3B672",
+              "date_added": "2017-06-14T08:05:40.411Z"
+            },
+            "mls": {
+              "id": "IG17120585",
+              "abbreviation": "MRCA",
+              "name": "CRMLS",
+              "disclaimer": {
+                "text": "© 2017, California Regional Multiple Listing Service, Inc.  All Rights Reserved."
+              }
+            },
+            "monthly_fees": {},
+            "neighborhoods": [{
+              "id": "4236528",
+              "name": "Central Corona",
+              "level": "macro_neighborhood"
+            }],
+            "normalized_features": [
+              "View",
+              "City View",
+              "Lease Option",
+              "Central Air",
+              "Forced Air",
+              "Single Story",
+              "Community Swimming Pool(s)",
+              "Recreation Facilities"
+            ],
+            "parking": {},
+            "parsed_address": {
+              "city": "Corona"
+            },
+            "pet_policy": "no_policy",
+            "photo_count": 13,
+            "photos": [{
+                "href": "http://ap.rdcpix.com/830563175/315c9006f7857c9378dd733d980462e3l-m0s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1815242710/315c9006f7857c9378dd733d980462e3l-m1s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1891586084/315c9006f7857c9378dd733d980462e3l-m2s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1212187817/315c9006f7857c9378dd733d980462e3l-m3s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/358967252/315c9006f7857c9378dd733d980462e3l-m4s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/2105316951/315c9006f7857c9378dd733d980462e3l-m5s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1355546329/315c9006f7857c9378dd733d980462e3l-m6s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1852563007/315c9006f7857c9378dd733d980462e3l-m7s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1605500235/315c9006f7857c9378dd733d980462e3l-m8s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/925903983/315c9006f7857c9378dd733d980462e3l-m9s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/815654257/315c9006f7857c9378dd733d980462e3l-m10s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/599517033/315c9006f7857c9378dd733d980462e3l-m11s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1255772321/315c9006f7857c9378dd733d980462e3l-m12s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              }
+            ],
+            "price": 1650,
+            "price_history": [{
+              "date": "2017-05-31T13:38:33.867Z",
+              "price": 1650
+            }],
+            "prop_type": "condo",
+            "property": {
+              "id": 1145864651,
+              "prop_status": "for_rent",
+              "permalink": "1440-Chalgrove-Dr-Unit-H_Corona_CA_92882_M11458-64651"
+            },
+            "provider_url": [],
+            "reduced": false,
+            "rex_codes": [
+              "EVLITE",
+              "CRFEAT",
+              "ParcelNumber",
+              "FLLSE",
+              "EVWFT",
+              "CSDIST",
+              "ICOLFT",
+              "IHACEN",
+              "IHACNB",
+              "IHACNU",
+              "ESTOR",
+              "Text_for_Directions",
+              "IFBA",
+              "ELOTFT",
+              "CRPOOL",
+              "FAREA"
+            ],
+            "school_catchments": [{
+                "id": "0bbd24037b237bdc545b2b76146ef34534f01ac5",
+                "name": "Coronita Elementary School"
+              },
+              {
+                "id": "3b0e53f1c6fe93eab4e40f69fedda8df7d687798",
+                "name": "Orange Grove High School"
+              },
+              {
+                "id": "a70802222f253274278a53cdb7f1e81c86ce884c",
+                "name": "Corona Fundamental Intermediate School"
+              },
+              {
+                "id": "ef031bb4f29df99bb8bd44299f58338fce45ef95",
+                "name": "Letha Raney Intermediate School"
+              },
+              {
+                "id": "fb119ae157a912ef35a5eb5af47c6bb7598cfdc7",
+                "name": "Corona High School"
+              }
+            ],
+            "school_districts": [{
+              "id": "9ee14bea79253256897e451f911622a318a3efd2",
+              "name": "Corona-Norco Unified School District"
+            }],
+            "source": "mls",
+            "sqft": 1040,
+            "status": "active",
+            "status_id": 6,
+            "stories": "1",
+            "udb_id": 1181575684,
+            "year_built": 1972
+          }
+        },
+        {
+          "_id": 605260228,
+          "listing": {
+            "address": {
+              "city": "Corona",
+              "street_name": "Robles",
+              "line": "880 Robles Pl",
+              "lat": 33.875562,
+              "long": -117.600446,
+              "postal_code": "92882",
+              "state": "California",
+              "state_code": "CA",
+              "country": "USA",
+              "county": "Riverside",
+              "geo_approximation": 8
+            },
+            "advertisers": [{
+                "id": 1194130353,
+                "phone": [{
+                    "number": "(951)279-8989",
+                    "type": "office"
+                  },
+                  {
+                    "number": "(951)279-5430",
+                    "type": "fax"
+                  }
+                ],
+                "type": "agent",
+                "sales_type": "agent",
+                "agent_system_id": "KLEEJANE",
+                "agent_system_id_short": "KLEEJANE",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065832545
+                }
+              },
+              {
+                "email": "jennynam@newstarrealty.com",
+                "href": "www.newstarrealty.com",
+                "id": 1192296283,
+                "advertiser_id": 147715,
+                "billing_id": "790854",
+                "name": "Era New Star Realty & Investment",
+                "phone": [{
+                  "number": "(909) 279-8989",
+                  "type": "office"
+                }],
+                "address": {
+                  "city": "Corona",
+                  "state_code": "CA",
+                  "state": "California"
+                },
+                "type": "office",
+                "sales_type": "office",
+                "office_system_id": "KERA01",
+                "office_system_id_short": "KERA01",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065831784
+                }
+              }
+            ],
+            "baths": 2,
+            "baths_full": 2,
+            "baths_half": 0,
+            "beds": 3,
+            "contact": {
+              "email": "JaneLee@newstarrealty.com"
+            },
+            "custom_search_area": [
+              "Corona,CA|^2493"
+            ],
+            "data_flags": [
+              "internet_remarks",
+              "suppress_foreclosure",
+              "suppress_agent"
+            ],
+            "deleted": false,
+            "description": "Excellent location, first floor bedroom and full bathroom, two car attached garage with direct access.",
+            "features": [{
+                "category": "Bedrooms",
+                "text": [
+                  "Bedrooms: 3",
+                  "Main Level Bedrooms: 1"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Bathrooms",
+                "text": [
+                  "Full Bathrooms: 2",
+                  "Main Level Bathrooms: 1"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Other rooms",
+                "text": [
+                  "Kitchen",
+                  "Loft",
+                  "Master Bedroom"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Interior Features",
+                "text": [
+                  "Furnished: Unfurnished"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Building and Construction",
+                "text": [
+                  "Levels or Stories: 2",
+                  "Common Walls: 1 Common Wall",
+                  "Lot Square Footage: 3485.00"
+                ],
+                "parent_category": "Features"
+              },
+              {
+                "category": "Exterior and Lot Features",
+                "text": [
+                  "0-1 Unit/Acre"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Waterfront and Water Access",
+                "text": [
+                  "Water Source: Public"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Garage and Parking",
+                "text": [
+                  "Number of Garage Spaces: 2",
+                  "Parking Total: 2.00"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Heating and Cooling",
+                "text": [
+                  "Heating Features: Central Furnace",
+                  "Cooling Features: Central",
+                  "Heating YN: Yes",
+                  "Cooling YN: Yes",
+                  "Fireplace Features: Family Room",
+                  "Fireplace: Yes"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Amenities and Community Features",
+                "text": [
+                  "Curbs",
+                  "Sidewalks"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Pool and Spa",
+                "text": [
+                  "Community Pool"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "School Information",
+                "text": [
+                  "School District: Corona-Norco Unified"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Other Property Info",
+                "text": [
+                  "City: Corona",
+                  "State: CA",
+                  "Area: 248 - Corona",
+                  "County: Riverside",
+                  "Zoning: R3",
+                  "Directions: 6th St.",
+                  "APN Number: 103342001",
+                  "Property Subtype: condo"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Listing Information",
+                "text": [
+                  "Listing Status: Active",
+                  "Listing Date: 2017-05-21 00:00:00",
+                  "Status Date: 2017-05-21 00:00:00.000"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Rental Info",
+                "text": [
+                  "Rent Includes: None"
+                ],
+                "parent_category": "Community"
+              }
+            ],
+            "garage": "2",
+            "id": 605260228,
+            "is_senior": false,
+            "last_refreshed": "2017-06-14T21:41:54.297Z",
+            "last_update": "2017-05-24T21:36:04.000Z",
+            "list_date": "2017-05-21T07:00:00.000Z",
+            "listing_provider_url": {
+              "url": "www.newstarrealty.com",
+              "type": "office_url",
+              "level": "office"
+            },
+            "meta": {
+              "sign_rider": [{
+                "product_suppressions": true,
+                "sign_rider": null
+              }],
+              "control_flags": {
+                "_t": "ControlFlags",
+                "MlsSuppressionRules": {
+                  "datasource_id": 430,
+                  "suppress_mapping": false,
+                  "display_broker": false,
+                  "display_internet_remark": true,
+                  "suppress_address": false,
+                  "suppress_agent": true,
+                  "suppress_listing_sqft": false,
+                  "suppress_listing_date": false,
+                  "suppress_foreclosure": true,
+                  "suppress_sales_history": false,
+                  "suppress_tax_assessment": false,
+                  "suppress_sold_price": false,
+                  "suppress_recently_offmarket": false
+                }
+              },
+              "database_partition_id": 2,
+              "mpr_id": 2233071623,
+              "property_id": 6902703,
+              "listing_id": 32823641,
+              "master_listing_id": 605260228,
+              "datasource_id": 430,
+              "datasource_name": "    ",
+              "listing_last_modified_ts": 15062409270,
+              "se_last_modified_ts": 5960039749,
+              "version": "1.0.0.0",
+              "scoring_token": "2233071623",
+              "md5": "1D218FE73139BE321116B3C3D7D70D5E",
+              "date_added": "2017-06-14T08:06:39.445Z"
+            },
+            "mls": {
+              "id": "IG17112925",
+              "abbreviation": "MRCA",
+              "name": "CRMLS",
+              "disclaimer": {
+                "text": "© 2017, California Regional Multiple Listing Service, Inc.  All Rights Reserved."
+              }
+            },
+            "monthly_fees": {},
+            "neighborhoods": [{
+              "id": "4236528",
+              "name": "Central Corona",
+              "level": "macro_neighborhood"
+            }],
+            "normalized_features": [
+              "Lease Option",
+              "Central Heat",
+              "Forced Air",
+              "Central Air",
+              "Garage - 2 or more",
+              "Garage - 1 or more",
+              "Fireplace",
+              "Community Swimming Pool(s)",
+              "Recreation Facilities",
+              "Two or More Stories"
+            ],
+            "parking": {},
+            "parsed_address": {
+              "city": "Corona"
+            },
+            "pet_policy": "no_policy",
+            "photo_count": 11,
+            "photos": [{
+                "href": "http://ap.rdcpix.com/2019264022/46c10d14b608f8494a67efe2769c04c7l-m0s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/2120610293/46c10d14b608f8494a67efe2769c04c7l-m1s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/2109694827/46c10d14b608f8494a67efe2769c04c7l-m2s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/587789171/46c10d14b608f8494a67efe2769c04c7l-m3s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1829628195/46c10d14b608f8494a67efe2769c04c7l-m4s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/27621324/46c10d14b608f8494a67efe2769c04c7l-m5s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/778136085/46c10d14b608f8494a67efe2769c04c7l-m6s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/2017917593/46c10d14b608f8494a67efe2769c04c7l-m7s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/300227404/46c10d14b608f8494a67efe2769c04c7l-m8s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/518873848/46c10d14b608f8494a67efe2769c04c7l-m9s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1376596430/46c10d14b608f8494a67efe2769c04c7l-m10s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              }
+            ],
+            "price": 1900,
+            "price_history": [{
+              "date": "2017-05-22T01:01:11.280Z",
+              "price": 1900
+            }],
+            "prop_type": "condo",
+            "property": {
+              "id": 2233071623,
+              "prop_status": "for_rent",
+              "permalink": "880-Robles-Pl_Corona_CA_92882_M22330-71623"
+            },
+            "provider_url": [{
+              "url": "www.newstarrealty.com",
+              "type": "office_url",
+              "level": "office"
+            }],
+            "reduced": false,
+            "rex_codes": [
+              "FLLSE",
+              "FZONE",
+              "CSDIST",
+              "FAREA",
+              "IHETFT",
+              "IHACHT",
+              "IHACHB",
+              "IHACHU",
+              "IHEAT",
+              "ParcelNumber",
+              "ICOLFT",
+              "IHACEN",
+              "IHACNB",
+              "IHACNU",
+              "EP#GAR",
+              "EPGAR",
+              "IFPFT",
+              "Text_for_Directions",
+              "IFBA",
+              "ELOTFT",
+              "CRPOOL",
+              "ESTOR",
+              "CRFEAT",
+              "IFFIRE"
+            ],
+            "school_catchments": [{
+                "id": "0bbd24037b237bdc545b2b76146ef34534f01ac5",
+                "name": "Coronita Elementary School"
+              },
+              {
+                "id": "3b0e53f1c6fe93eab4e40f69fedda8df7d687798",
+                "name": "Orange Grove High School"
+              },
+              {
+                "id": "a70802222f253274278a53cdb7f1e81c86ce884c",
+                "name": "Corona Fundamental Intermediate School"
+              },
+              {
+                "id": "ef031bb4f29df99bb8bd44299f58338fce45ef95",
+                "name": "Letha Raney Intermediate School"
+              },
+              {
+                "id": "fb119ae157a912ef35a5eb5af47c6bb7598cfdc7",
+                "name": "Corona High School"
+              }
+            ],
+            "school_districts": [{
+              "id": "9ee14bea79253256897e451f911622a318a3efd2",
+              "name": "Corona-Norco Unified School District"
+            }],
+            "source": "mls",
+            "sqft": 1497,
+            "status": "active",
+            "status_id": 6,
+            "stories": "2",
+            "udb_id": 1181331570,
+            "year_built": 1984
+          }
+        },
+        {
+          "_id": 605974696,
+          "listing": {
+            "address": {
+              "city": "Corona",
+              "street_name": "Gianni",
+              "line": "799 Gianni Dr Unit 204",
+              "lat": 33.873109,
+              "long": -117.554962,
+              "postal_code": "92879",
+              "state": "California",
+              "state_code": "CA",
+              "country": "USA",
+              "county": "Riverside",
+              "geo_approximation": 8
+            },
+            "advertisers": [{
+                "email": "yoshiko.proulx@gmail.com",
+                "id": 1193322619,
+                "advertiser_id": 1818472,
+                "billing_id": "2327577",
+                "nrdsid": "160005223",
+                "name": "Yoshiko Proulx",
+                "phone": [{
+                    "number": "(951) 371-6700",
+                    "type": "office"
+                  },
+                  {
+                    "number": "(951) 990-0431",
+                    "type": "office"
+                  }
+                ],
+                "type": "agent",
+                "sales_type": "agent",
+                "agent_system_id": "KPROUYOS",
+                "agent_system_id_short": "KPROUYOS",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065783356
+                }
+              },
+              {
+                "id": 1192296428,
+                "advertiser_id": 859758,
+                "billing_id": "1748386",
+                "name": "Landmark Funding & Realty",
+                "phone": [{
+                    "number": "(951)371-6700",
+                    "type": "office"
+                  },
+                  {
+                    "number": "(951)582-2702",
+                    "type": "fax"
+                  }
+                ],
+                "address": {
+                  "city": "Corona",
+                  "state_code": "CA",
+                  "state": "California"
+                },
+                "type": "office",
+                "sales_type": "office",
+                "office_system_id": "KSBL01",
+                "office_system_id_short": "KSBL01",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065782470
+                }
+              }
+            ],
+            "baths": 1,
+            "baths_full": 1,
+            "baths_half": 0,
+            "beds": 2,
+            "contact": {
+              "email": "yoshiko.proulx@gmail.com"
+            },
+            "custom_search_area": [
+              "Corona,CA|^2493"
+            ],
+            "data_flags": [
+              "internet_remarks",
+              "suppress_foreclosure",
+              "suppress_agent"
+            ],
+            "deleted": false,
+            "description": "Second floor unit in the gated community of Gianni Villas off Circle City Dr in Corona. This condo has an efficient floor plan with 2 bedrooms, 1 bath, washer/dryer hookups in the laundry closet, balcony off living room, and one-car garage plus one assigned open parking space. There's also a community laundry room. The kitchen has upgraded granite counter tops. Association amenities include a pool and BBQ. The rent includes water and trash. Close to downtown Corona, shopping, and parks. Easy access to 91 freeway.",
+            "features": [{
+                "category": "Bedrooms",
+                "text": [
+                  "Bedrooms: 2",
+                  "Main Level Bedrooms: 2"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Bathrooms",
+                "text": [
+                  "Full Bathrooms: 1",
+                  "Main Level Bathrooms: 1"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Kitchen and Dining",
+                "text": [
+                  "RoomKitchenFeatures: Granite Counters, Kitchen Open to Family Room",
+                  "Area"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Other rooms",
+                "text": [
+                  "Kitchen",
+                  "Living Room",
+                  "Main Floor Bedroom"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Interior Features",
+                "text": [
+                  "Carpet",
+                  "Furnished: Unfurnished"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Building and Construction",
+                "text": [
+                  "Levels or Stories: 1",
+                  "Common Walls: 2+ Common Walls",
+                  "Lot Square Footage: 436.00"
+                ],
+                "parent_category": "Features"
+              },
+              {
+                "category": "Exterior and Lot Features",
+                "text": [
+                  "City Lights",
+                  "Neighborhood",
+                  "Park Nearby",
+                  "Paved"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Waterfront and Water Access",
+                "text": [
+                  "Water Source: Public"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Garage and Parking",
+                "text": [
+                  "Number of Garage Spaces: 1",
+                  "Garage: Detached",
+                  "Parking Total: 1.00"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Heating and Cooling",
+                "text": [
+                  "Cooling Features: Central",
+                  "Cooling YN: Yes"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Appliances",
+                "text": [
+                  "Community",
+                  "In Closet",
+                  "Laundry YN: Yes"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Amenities and Community Features",
+                "text": [
+                  "Curbs",
+                  "Sidewalks",
+                  "Street Lighting"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Pool and Spa",
+                "text": [
+                  "Association"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "School Information",
+                "text": [
+                  "School District: Corona-Norco Unified"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Other Property Info",
+                "text": [
+                  "City: Corona",
+                  "State: CA",
+                  "Area: 248 - Corona",
+                  "County: Riverside",
+                  "Directions: Cross street: E Grand Blvd & Circle City Dr",
+                  "APN Number: 117322019",
+                  "Property Subtype: condo",
+                  "View: Yes"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Listing Information",
+                "text": [
+                  "Listing Status: Active",
+                  "Listing Date: 2017-06-09 00:00:00",
+                  "Status Date: 2017-06-09 00:00:00.000"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Rental Info",
+                "text": [
+                  "Rent Includes: Association Dues, Gardener, Trash Collection, Water"
+                ],
+                "parent_category": "Community"
+              }
+            ],
+            "garage": "1",
+            "id": 605974696,
+            "is_senior": false,
+            "last_refreshed": "2017-06-14T21:41:54.297Z",
+            "last_update": "2017-06-11T00:36:13.000Z",
+            "list_date": "2017-06-09T07:00:00.000Z",
+            "meta": {
+              "sign_rider": [{
+                "product_suppressions": true,
+                "sign_rider": null
+              }],
+              "control_flags": {
+                "_t": "ControlFlags",
+                "MlsSuppressionRules": {
+                  "datasource_id": 430,
+                  "suppress_mapping": false,
+                  "display_broker": false,
+                  "display_internet_remark": true,
+                  "suppress_address": false,
+                  "suppress_agent": true,
+                  "suppress_listing_sqft": false,
+                  "suppress_listing_date": false,
+                  "suppress_foreclosure": true,
+                  "suppress_sales_history": false,
+                  "suppress_tax_assessment": false,
+                  "suppress_sold_price": false,
+                  "suppress_recently_offmarket": false
+                }
+              },
+              "database_partition_id": 2,
+              "mpr_id": 1030152189,
+              "property_id": 14269973,
+              "listing_id": 33002245,
+              "master_listing_id": 605974696,
+              "datasource_id": 430,
+              "datasource_name": "    ",
+              "listing_last_modified_ts": 15062465227,
+              "se_last_modified_ts": 5960060079,
+              "version": "1.0.0.0",
+              "scoring_token": "1030152189",
+              "md5": "D4F1BC931FD85142FCC0A7674A1F58E9",
+              "date_added": "2017-06-14T08:07:28.072Z"
+            },
+            "mls": {
+              "id": "IG17130436",
+              "abbreviation": "MRCA",
+              "name": "CRMLS",
+              "disclaimer": {
+                "text": "© 2017, California Regional Multiple Listing Service, Inc.  All Rights Reserved."
+              }
+            },
+            "monthly_fees": {},
+            "neighborhoods": [{
+              "id": "4236528",
+              "name": "Central Corona",
+              "level": "macro_neighborhood"
+            }],
+            "normalized_features": [
+              "Lease Option",
+              "View",
+              "Single Story",
+              "Garage - 1 or more",
+              "Community Swimming Pool(s)",
+              "Recreation Facilities",
+              "Central Air",
+              "Forced Air",
+              "City View"
+            ],
+            "parking": {},
+            "parsed_address": {
+              "city": "Corona"
+            },
+            "pet_policy": "no_policy",
+            "photo_count": 10,
+            "photos": [{
+                "href": "http://ap.rdcpix.com/1958829466/a099dc9081fe5f70ee65306e6c2b2431l-m0s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1241946467/a099dc9081fe5f70ee65306e6c2b2431l-m1s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/441789845/a099dc9081fe5f70ee65306e6c2b2431l-m2s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/267987642/a099dc9081fe5f70ee65306e6c2b2431l-m3s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/79559029/a099dc9081fe5f70ee65306e6c2b2431l-m4s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1289318666/a099dc9081fe5f70ee65306e6c2b2431l-m5s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1371454124/a099dc9081fe5f70ee65306e6c2b2431l-m6s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/508581494/a099dc9081fe5f70ee65306e6c2b2431l-m7s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1042806396/a099dc9081fe5f70ee65306e6c2b2431l-m8s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/450618256/a099dc9081fe5f70ee65306e6c2b2431l-m9s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              }
+            ],
+            "price": 1250,
+            "price_history": [{
+              "date": "2017-06-09T22:03:48.530Z",
+              "price": 1250
+            }],
+            "prop_type": "condo",
+            "property": {
+              "id": 1030152189,
+              "prop_status": "for_rent",
+              "permalink": "799-Gianni-Dr-Unit-204_Corona_CA_92879_M10301-52189"
+            },
+            "provider_url": [],
+            "reduced": false,
+            "rex_codes": [
+              "CRFEAT",
+              "ParcelNumber",
+              "FLLSE",
+              "EVWFT",
+              "CSDIST",
+              "FAREA",
+              "ESTOR",
+              "EP#GAR",
+              "EPGAR",
+              "Text_for_Directions",
+              "IFBA",
+              "ELOTFT",
+              "CRPOOL",
+              "ICOLFT",
+              "IHACEN",
+              "IHACNB",
+              "IHACNU",
+              "EVLITE"
+            ],
+            "school_catchments": [{
+                "id": "60c9cfbc2b07aaa7612b3a05baf3760d872ac218",
+                "name": "Auburndale Intermediate School"
+              },
+              {
+                "id": "9893b97762b0470ea621191019a17f9d9c01b74b",
+                "name": "Lincoln Alternative Elementary School"
+              },
+              {
+                "id": "bb41ca6a0ebbb76c16e56c83f91feae0812b4ad8",
+                "name": "Garretson Elementary School"
+              },
+              {
+                "id": "e8e54047f258bde71fd6be7751840ca43a17bf8a",
+                "name": "Centennial High School"
+              }
+            ],
+            "school_districts": [{
+              "id": "9ee14bea79253256897e451f911622a318a3efd2",
+              "name": "Corona-Norco Unified School District"
+            }],
+            "source": "mls",
+            "sqft": 850,
+            "status": "active",
+            "status_id": 6,
+            "stories": "1",
+            "udb_id": 1181995865,
+            "year_built": 1988
+          }
+        },
+        {
+          "_id": 605377844,
+          "listing": {
+            "address": {
+              "city": "Corona",
+              "street_name": "Las Colinas",
+              "line": "1980 Las Colinas Cir Unit 201",
+              "lat": 33.900486,
+              "long": -117.531927,
+              "postal_code": "92879",
+              "state": "California",
+              "state_code": "CA",
+              "country": "USA",
+              "county": "Riverside",
+              "geo_approximation": 8
+            },
+            "advertisers": [{
+                "email": "kathy.taherian@gmail.com",
+                "href": "http://www.Taherian.Realtor",
+                "id": 1581180509,
+                "advertiser_id": 1956769,
+                "billing_id": "2840715",
+                "nrdsid": "205554678",
+                "name": "Kathy Taherian",
+                "phone": [{
+                    "number": "(949) 527-8333",
+                    "type": "mobile"
+                  },
+                  {
+                    "number": "(949) 527-8333",
+                    "type": "broker"
+                  }
+                ],
+                "photo": {
+                  "href": "http://p.rdcpix.com/v02/aa1db1d00-c0s.jpg"
+                },
+                "type": "agent",
+                "sales_type": "agent",
+                "agent_system_id": "OCTAHEKAT",
+                "agent_system_id_short": "OCTAHEKAT",
+                "broker_logo": "http://p.rdcpix.com/v02/aa1db1d00-c0l.jpg",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065787295
+                }
+              },
+              {
+                "id": 1290087415,
+                "advertiser_id": 3006246,
+                "billing_id": "3436845",
+                "name": "Aspero Realty, Inc",
+                "phone": [{
+                  "number": "(714) 352-6390",
+                  "type": "mobile"
+                }],
+                "address": {
+                  "city": "Irvine",
+                  "state_code": "CA",
+                  "state": "California"
+                },
+                "type": "office",
+                "sales_type": "office",
+                "office_system_id": "OC03026",
+                "office_system_id_short": "OC03026",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065786215
+                }
+              }
+            ],
+            "baths": 2,
+            "baths_full": 2,
+            "baths_half": 0,
+            "beds": 2,
+            "contact": {
+              "email": "kathy.taherian@gmail.com"
+            },
+            "custom_search_area": [
+              "Corona,CA|^2493"
+            ],
+            "data_flags": [
+              "internet_remarks",
+              "suppress_foreclosure",
+              "suppress_agent"
+            ],
+            "deleted": false,
+            "description": "***Upgraded condo in a beautiful Gated community and a view Balcony*** Great Location Two separate master bedrooms with walk in closet,good size kitchen with granite counter tops,2 large balconies, 1 off each bedroom and one off the living room.Floor is tile, Newly painted and Super clean Stainless steel appliances includes Refrigerator, Indoor laundry which includes washer and dryer. One detached GARAGE, community club house, gym, pool, spa and city light view Close to Costco, Wal-Mart Target & Home depot, less than 2 miles to I-15 & 91 FWY. Renter insurance is required before move in. No Pet please.",
+            "features": [{
+                "category": "Bedrooms",
+                "text": [
+                  "Bedrooms: 2",
+                  "Main Level Bedrooms: 2"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Bathrooms",
+                "text": [
+                  "Full Bathrooms: 2",
+                  "Main Level Bathrooms: 2"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Other rooms",
+                "text": [
+                  "All Bedrooms Up",
+                  "Master Bedroom"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Interior Features",
+                "text": [
+                  "Balcony",
+                  "Granite Counters",
+                  "Living Room Balcony",
+                  "Open Floor Plan",
+                  "Furnished: Unfurnished"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Building and Construction",
+                "text": [
+                  "Levels or Stories: 1",
+                  "Common Walls: 2+ Common Walls",
+                  "Stories Total: 1",
+                  "Lot Square Footage: 1326.00"
+                ],
+                "parent_category": "Features"
+              },
+              {
+                "category": "Exterior and Lot Features",
+                "text": [
+                  "Corner Lot",
+                  "Zero Lot Line"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Waterfront and Water Access",
+                "text": [
+                  "Water Source: Public"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Garage and Parking",
+                "text": [
+                  "Number of Garage Spaces: 1",
+                  "Garage: Detached",
+                  "Garage",
+                  "Permit/Decal",
+                  "Parking Total: 2.00",
+                  "Parking YN: Yes"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Heating and Cooling",
+                "text": [
+                  "Heating Features: Central Furnace",
+                  "Cooling Features: Central",
+                  "Heating YN: Yes",
+                  "Cooling YN: Yes"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Appliances",
+                "text": [
+                  "Appliances YN: Yes",
+                  "Dishwasher",
+                  "Electric Stove",
+                  "Microwave",
+                  "Refrigerator"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Amenities and Community Features",
+                "text": [
+                  "Sidewalks"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Pool and Spa",
+                "text": [
+                  "Association",
+                  "Community Pool"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "School Information",
+                "text": [
+                  "School District: Corona-Norco Unified"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Other Property Info",
+                "text": [
+                  "City: Corona",
+                  "State: CA",
+                  "Area: 248 - Corona",
+                  "County: Riverside",
+                  "Directions: Cross Streets: Hidden Valley Pkwy/Parkview Dr",
+                  "APN Number: 122414001",
+                  "Entry Location: Second Floor",
+                  "Entry Level: 2",
+                  "Property Subtype: condo"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Listing Information",
+                "text": [
+                  "Listing Status: Active",
+                  "Listing Date: 2017-05-26 00:00:00",
+                  "Status Date: 2017-05-26 00:00:00.000"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Rental Info",
+                "text": [
+                  "Rent Includes: Association Dues, Trash Collection, Water"
+                ],
+                "parent_category": "Community"
+              }
+            ],
+            "garage": "1",
+            "id": 605377844,
+            "is_senior": false,
+            "last_refreshed": "2017-06-14T21:41:54.297Z",
+            "last_update": "2017-06-13T03:38:00.000Z",
+            "list_date": "2017-05-26T07:00:00.000Z",
+            "meta": {
+              "sign_rider": [{
+                "product_suppressions": true,
+                "sign_rider": null
+              }],
+              "control_flags": {
+                "_t": "ControlFlags",
+                "MlsSuppressionRules": {
+                  "datasource_id": 430,
+                  "suppress_mapping": false,
+                  "display_broker": false,
+                  "display_internet_remark": true,
+                  "suppress_address": false,
+                  "suppress_agent": true,
+                  "suppress_listing_sqft": false,
+                  "suppress_listing_date": false,
+                  "suppress_foreclosure": true,
+                  "suppress_sales_history": false,
+                  "suppress_tax_assessment": false,
+                  "suppress_sold_price": false,
+                  "suppress_recently_offmarket": false
+                }
+              },
+              "database_partition_id": 2,
+              "mpr_id": 1219367490,
+              "property_id": 14073965,
+              "listing_id": 32853039,
+              "master_listing_id": 605377844,
+              "datasource_id": 430,
+              "datasource_name": "    ",
+              "listing_last_modified_ts": 15059549984,
+              "se_last_modified_ts": 5959006961,
+              "version": "1.0.0.0",
+              "scoring_token": "1219367490",
+              "md5": "FE6CFE6A710D54B8914DA84CA81304B9",
+              "date_added": "2017-06-14T08:12:27.101Z"
+            },
+            "mls": {
+              "id": "OC17117310",
+              "abbreviation": "MRCA",
+              "name": "CRMLS",
+              "disclaimer": {
+                "text": "© 2017, California Regional Multiple Listing Service, Inc.  All Rights Reserved."
+              }
+            },
+            "monthly_fees": {},
+            "neighborhoods": [{
+                "id": "4236563",
+                "name": "North Corona",
+                "level": "macro_neighborhood"
+              },
+              {
+                "id": "4236579",
+                "name": "Corona Ranch",
+                "level": "neighborhood"
+              }
+            ],
+            "normalized_features": [
+              "Corner Lot",
+              "Lease Option",
+              "Central Heat",
+              "Forced Air",
+              "Central Air",
+              "Single Story",
+              "Garage - 1 or more",
+              "Community Swimming Pool(s)",
+              "Recreation Facilities"
+            ],
+            "parking": {},
+            "parsed_address": {
+              "city": "Corona"
+            },
+            "pet_policy": "no_policy",
+            "photo_count": 15,
+            "photos": [{
+                "href": "http://ap.rdcpix.com/69417913/ea2e073ca39d90dc4ba358c389a2e66fl-m0s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/436974297/ea2e073ca39d90dc4ba358c389a2e66fl-m1s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1777891582/ea2e073ca39d90dc4ba358c389a2e66fl-m2s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/747434046/ea2e073ca39d90dc4ba358c389a2e66fl-m3s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1182676512/ea2e073ca39d90dc4ba358c389a2e66fl-m4s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/75562639/ea2e073ca39d90dc4ba358c389a2e66fl-m5s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/927166244/ea2e073ca39d90dc4ba358c389a2e66fl-m6s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1768832600/ea2e073ca39d90dc4ba358c389a2e66fl-m7s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/661308282/ea2e073ca39d90dc4ba358c389a2e66fl-m8s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/445815085/ea2e073ca39d90dc4ba358c389a2e66fl-m9s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/2055654141/ea2e073ca39d90dc4ba358c389a2e66fl-m10s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1536005404/ea2e073ca39d90dc4ba358c389a2e66fl-m11s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1911939640/ea2e073ca39d90dc4ba358c389a2e66fl-m12s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1819854806/ea2e073ca39d90dc4ba358c389a2e66fl-m13s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/233162864/ea2e073ca39d90dc4ba358c389a2e66fl-m14s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              }
+            ],
+            "price": 1650,
+            "price_history": [{
+                "date": "2017-05-26T13:11:40.930Z",
+                "price": 1600
+              },
+              {
+                "date": "2017-06-01T16:33:54.500Z",
+                "price": 1650
+              }
+            ],
+            "prop_type": "condo",
+            "property": {
+              "id": 1219367490,
+              "prop_status": "for_rent",
+              "permalink": "1980-Las-Colinas-Cir-Unit-201_Corona_CA_92879_M12193-67490"
+            },
+            "provider_url": [],
+            "reduced": false,
+            "rex_codes": [
+              "EUCORN",
+              "ParcelNumber",
+              "FLLSE",
+              "CSDIST",
+              "FAREA",
+              "IHETFT",
+              "IHACHT",
+              "IHACHB",
+              "IHACHU",
+              "IHEAT",
+              "ICOLFT",
+              "IHACEN",
+              "IHACNB",
+              "IHACNU",
+              "ESTOR",
+              "INTFTS",
+              "EP#GAR",
+              "EPGAR",
+              "Text_for_Directions",
+              "IFBA",
+              "ELOTFT",
+              "CRPOOL",
+              "CRFEAT",
+              "EPPARK"
+            ],
+            "school_catchments": [{
+                "id": "3905121ae6c122a631ddf504cb42b0e0500974cb",
+                "name": "Norco High School"
+              },
+              {
+                "id": "3edb92ac57cc088604bbaed7b2ed5baf4acb5932",
+                "name": "William Mckinley Elementary School"
+              },
+              {
+                "id": "60c9cfbc2b07aaa7612b3a05baf3760d872ac218",
+                "name": "Auburndale Intermediate School"
+              },
+              {
+                "id": "7c8cd4e715fe7f157cb55aafdcb1edd4c1d8af12",
+                "name": "John F. Kennedy High School"
+              }
+            ],
+            "school_districts": [{
+              "id": "9ee14bea79253256897e451f911622a318a3efd2",
+              "name": "Corona-Norco Unified School District"
+            }],
+            "source": "mls",
+            "sqft": 1063,
+            "status": "active",
+            "status_id": 6,
+            "stories": "1",
+            "udb_id": 1181475425,
+            "year_built": 1991
+          }
+        },
+        {
+          "_id": 605441632,
+          "listing": {
+            "address": {
+              "city": "Corona",
+              "street_name": "Odyssey",
+              "line": "4280 Odyssey Dr Unit 101",
+              "postal_code": "92883",
+              "state": "California",
+              "state_code": "CA",
+              "country": "USA",
+              "county": "",
+              "geo_approximation": 0
+            },
+            "advertisers": [{
+                "id": 1581397972,
+                "type": "agent",
+                "sales_type": "agent",
+                "agent_system_id": "OCZHUJIAN",
+                "agent_system_id_short": "OCZHUJIAN",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065947525
+                }
+              },
+              {
+                "id": 1580480665,
+                "address": {
+                  "city": null,
+                  "state_code": null,
+                  "state": null
+                },
+                "type": "office",
+                "sales_type": "office",
+                "office_system_id_short": "OC05486",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065946754
+                }
+              }
+            ],
+            "beds": 3,
+            "contact": {
+              "email": "amberzhu1228@gmail.com"
+            },
+            "custom_search_area": [
+              "Corona,CA|^2493",
+              "Temescal Valley,CA|^180591"
+            ],
+            "data_flags": [
+              "internet_remarks",
+              "suppress_map_pin",
+              "suppress_foreclosure",
+              "suppress_agent"
+            ],
+            "deleted": false,
+            "description": "Beautiful brand new Live-work condo near the shops at Dos Lagos. Convenient and easy access to the I-15 freeway. The listing price is including furnishings. Home has fantastic lake view.",
+            "features": [{
+                "category": "Bedrooms",
+                "text": [
+                  "Bedrooms: 3",
+                  "Main Level Bedrooms: 3"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Bathrooms",
+                "text": [
+                  "Main Level Bathrooms: 2"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Other rooms",
+                "text": [
+                  "All Bedrooms Up"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Interior Features",
+                "text": [
+                  "Furnished: Furnished"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Building and Construction",
+                "text": [
+                  "Levels or Stories: 3",
+                  "Common Walls: 2+ Common Walls"
+                ],
+                "parent_category": "Features"
+              },
+              {
+                "category": "Exterior and Lot Features",
+                "text": [
+                  "Lake",
+                  "Paved"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Waterfront and Water Access",
+                "text": [
+                  "Water Source: Public"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Garage and Parking",
+                "text": [
+                  "Number of Garage Spaces: 2",
+                  "Parking Total: 2.00"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Heating and Cooling",
+                "text": [
+                  "Cooling Features: Central",
+                  "Cooling YN: Yes"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Amenities and Community Features",
+                "text": [
+                  "Sidewalks"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Pool and Spa",
+                "text": [
+                  "Community Pool"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "School Information",
+                "text": [
+                  "School District: Corona-Norco Unified"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Other Property Info",
+                "text": [
+                  "City: Corona",
+                  "State: CA",
+                  "Area: 248 - Corona",
+                  "County: Riverside",
+                  "Directions: If you drive from 15 North, take exist Das Lagos drive, then turn left on Temescal Canyon Rd, then turn left on Pronio Cir, and you will find the community.",
+                  "Property Subtype: condo",
+                  "View: Yes"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Listing Information",
+                "text": [
+                  "Listing Status: Active",
+                  "Listing Date: 2017-05-30 00:00:00",
+                  "Status Date: 2017-05-30 00:00:00.000"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Rental Info",
+                "text": [
+                  "Rent Includes: Association Dues, Gardener"
+                ],
+                "parent_category": "Community"
+              }
+            ],
+            "garage": "2",
+            "id": 605441632,
+            "is_senior": false,
+            "last_refreshed": "2017-06-14T21:41:54.297Z",
+            "last_update": "2017-05-30T12:04:44.000Z",
+            "list_date": "2017-05-30T07:00:00.000Z",
+            "lot_sqft": 0,
+            "meta": {
+              "sign_rider": [{
+                "product_suppressions": true,
+                "sign_rider": null
+              }],
+              "control_flags": {
+                "_t": "ControlFlags",
+                "MlsSuppressionRules": {
+                  "datasource_id": 430,
+                  "suppress_mapping": false,
+                  "display_broker": false,
+                  "display_internet_remark": true,
+                  "suppress_address": false,
+                  "suppress_agent": true,
+                  "suppress_listing_sqft": false,
+                  "suppress_listing_date": false,
+                  "suppress_foreclosure": true,
+                  "suppress_sales_history": false,
+                  "suppress_tax_assessment": false,
+                  "suppress_sold_price": false,
+                  "suppress_recently_offmarket": false
+                }
+              },
+              "database_partition_id": 2,
+              "mpr_id": 1990637221,
+              "property_id": 111582132,
+              "listing_id": 32868988,
+              "master_listing_id": 605441632,
+              "datasource_id": 430,
+              "datasource_name": "    ",
+              "listing_last_modified_ts": 15062416466,
+              "se_last_modified_ts": 5960043919,
+              "version": "1.0.0.0",
+              "scoring_token": "1990637221",
+              "md5": "359B3C6318FE2A0865AC4F52423A94FC",
+              "date_added": "2017-06-14T08:11:53.365Z"
+            },
+            "mls": {
+              "id": "OC17119487",
+              "abbreviation": "MRCA",
+              "name": "CRMLS",
+              "disclaimer": {
+                "text": "© 2017, California Regional Multiple Listing Service, Inc.  All Rights Reserved."
+              }
+            },
+            "monthly_fees": {},
+            "normalized_features": [
+              "Community Swimming Pool(s)",
+              "Recreation Facilities",
+              "Garage - 2 or more",
+              "Garage - 1 or more",
+              "Two or More Stories",
+              "Central Air",
+              "Forced Air",
+              "View",
+              "Lease Option",
+              "Water View",
+              "Lake View"
+            ],
+            "parking": {},
+            "parsed_address": {
+              "city": "Corona"
+            },
+            "pet_policy": "no_policy",
+            "photo_count": 6,
+            "photos": [{
+                "href": "http://ap.rdcpix.com/1914628950/fe7e6530d74949dff644e0d5fcbe7c12l-m0s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/545350012/fe7e6530d74949dff644e0d5fcbe7c12l-m1s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1585084135/fe7e6530d74949dff644e0d5fcbe7c12l-m2s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/146450599/fe7e6530d74949dff644e0d5fcbe7c12l-m3s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1639963349/fe7e6530d74949dff644e0d5fcbe7c12l-m4s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1207531521/fe7e6530d74949dff644e0d5fcbe7c12l-m5s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              }
+            ],
+            "price": 2900,
+            "price_history": [{
+              "date": "2017-05-30T12:47:14.657Z",
+              "price": 2900
+            }],
+            "prop_type": "condo",
+            "property": {
+              "id": 1990637221,
+              "prop_status": "for_rent",
+              "permalink": "4280-Odyssey-Dr-Unit-101_Corona_CA_92883_M19906-37221"
+            },
+            "provider_url": [],
+            "reduced": false,
+            "rex_codes": [
+              "CRPOOL",
+              "ELOTFT",
+              "Text_for_Directions",
+              "EP#GAR",
+              "EPGAR",
+              "ESTOR",
+              "ICOLFT",
+              "IHACEN",
+              "IHACNB",
+              "IHACNU",
+              "FAREA",
+              "CSDIST",
+              "EVWFT",
+              "FLLSE",
+              "CRFEAT",
+              "EVWATE",
+              "EVLAKE"
+            ],
+            "source": "mls",
+            "sqft": 2421,
+            "status": "active",
+            "status_id": 6,
+            "stories": "3",
+            "udb_id": 1181541371,
+            "year_built": 2016
+          }
+        },
+        {
+          "_id": 606006760,
+          "listing": {
+            "address": {
+              "city": "Eastvale",
+              "street_name": "Silveira",
+              "line": "5936 Silveira St",
+              "postal_code": "92880",
+              "state": "California",
+              "state_code": "CA",
+              "country": "USA",
+              "county": "",
+              "geo_approximation": 0
+            },
+            "advertisers": [{
+                "email": "tonylee1600@yahoo.com",
+                "id": 1290116026,
+                "advertiser_id": 1607088,
+                "billing_id": "2519080",
+                "nrdsid": "214008110",
+                "name": "YunQing Li",
+                "phone": [{
+                    "number": "(626) 309-1900",
+                    "type": "other"
+                  },
+                  {
+                    "number": "(626) 264-7651",
+                    "type": "mobile"
+                  }
+                ],
+                "photo": {
+                  "href": "http://p.rdcpix.com/v02/ab0851800-c0s.jpg"
+                },
+                "type": "agent",
+                "sales_type": "agent",
+                "agent_system_id": "WS77320",
+                "agent_system_id_short": "WS77320",
+                "broker_logo": "http://p.rdcpix.com/v02/ab0851800-c0l.jpg",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065896175
+                }
+              },
+              {
+                "id": 1580392508,
+                "advertiser_id": 2857352,
+                "billing_id": "3322876",
+                "name": "Re/Max Masters",
+                "phone": [{
+                  "number": "(909) 364-8380",
+                  "type": "mobile"
+                }],
+                "address": {
+                  "city": "Chino Hills",
+                  "state_code": "CA",
+                  "state": "California"
+                },
+                "type": "office",
+                "sales_type": "office",
+                "office_system_id": "21088",
+                "office_system_id_short": "21088",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065895788
+                }
+              }
+            ],
+            "baths": 3,
+            "baths_full": 3,
+            "baths_half": 0,
+            "beds": 4,
+            "contact": {
+              "email": "limengqi168@gmail.com"
+            },
+            "custom_search_area": [
+              "Corona,CA|^2493",
+              "Eastvale,CA|^179429"
+            ],
+            "data_flags": [
+              "internet_remarks",
+              "suppress_map_pin",
+              "suppress_foreclosure",
+              "suppress_agent"
+            ],
+            "deleted": false,
+            "features": [{
+                "category": "Bedrooms",
+                "text": [
+                  "Bedrooms: 4",
+                  "Main Level Bedrooms: 1"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Bathrooms",
+                "text": [
+                  "Full Bathrooms: 3",
+                  "Main Level Bathrooms: 1"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Other rooms",
+                "text": [
+                  "Entry",
+                  "Kitchen",
+                  "Laundry"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Interior Features",
+                "text": [
+                  "Furnished: Unfurnished"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Building and Construction",
+                "text": [
+                  "Levels or Stories: 2",
+                  "Lot Square Footage: 2500.00"
+                ],
+                "parent_category": "Features"
+              },
+              {
+                "category": "Exterior and Lot Features",
+                "text": [
+                  "Park Nearby"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Waterfront and Water Access",
+                "text": [
+                  "Water Source: Public"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Garage and Parking",
+                "text": [
+                  "Number of Garage Spaces: 2",
+                  "Parking Total: 2.00"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Heating and Cooling",
+                "text": [
+                  "Cooling Features: Central",
+                  "Cooling YN: Yes"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Appliances",
+                "text": [
+                  "Inside",
+                  "Laundry YN: Yes"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Amenities and Community Features",
+                "text": [
+                  "Curbs"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Pool and Spa",
+                "text": [
+                  "Community Pool"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "School Information",
+                "text": [
+                  "School District: Corona-Norco Unified"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Other Property Info",
+                "text": [
+                  "City: Eastvale",
+                  "State: CA",
+                  "Area: 249 - Eastvale",
+                  "County: Riverside",
+                  "Directions: 15highway off limonite go west,scholar way go north,ask KB home sale officer exactly location",
+                  "Property Subtype: condo",
+                  "Pets Allowed: Yes"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Listing Information",
+                "text": [
+                  "Listing Status: Active",
+                  "Listing Date: 2017-06-10 00:00:00",
+                  "Status Date: 2017-06-10 00:00:00.000"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Rental Info",
+                "text": [
+                  "Rent Includes: Association Dues",
+                  "Deposit Pets: 500"
+                ],
+                "parent_category": "Community"
+              }
+            ],
+            "garage": "2",
+            "id": 606006760,
+            "is_senior": false,
+            "last_refreshed": "2017-06-14T21:41:54.297Z",
+            "last_update": "2017-06-13T23:16:00.000Z",
+            "list_date": "2017-06-10T07:00:00.000Z",
+            "meta": {
+              "sign_rider": [{
+                "product_suppressions": true,
+                "sign_rider": null
+              }],
+              "control_flags": {
+                "_t": "ControlFlags",
+                "MlsSuppressionRules": {
+                  "datasource_id": 430,
+                  "suppress_mapping": false,
+                  "display_broker": false,
+                  "display_internet_remark": true,
+                  "suppress_address": false,
+                  "suppress_agent": true,
+                  "suppress_listing_sqft": false,
+                  "suppress_listing_date": false,
+                  "suppress_foreclosure": true,
+                  "suppress_sales_history": false,
+                  "suppress_tax_assessment": false,
+                  "suppress_sold_price": false,
+                  "suppress_recently_offmarket": false
+                }
+              },
+              "database_partition_id": 2,
+              "mpr_id": 2274159660,
+              "property_id": 111644612,
+              "listing_id": 33010274,
+              "master_listing_id": 606006760,
+              "datasource_id": 430,
+              "datasource_name": "    ",
+              "listing_last_modified_ts": 15067072426,
+              "se_last_modified_ts": 5961759603,
+              "version": "1.0.0.0",
+              "scoring_token": "2274159660",
+              "md5": "9C37CEF5F4FA949FA330647B226910C4",
+              "date_added": "2017-06-14T08:05:58.771Z"
+            },
+            "mls": {
+              "id": "WS17131395",
+              "abbreviation": "MRCA",
+              "name": "CRMLS",
+              "disclaimer": {
+                "text": "© 2017, California Regional Multiple Listing Service, Inc.  All Rights Reserved."
+              }
+            },
+            "monthly_fees": {},
+            "normalized_features": [
+              "Community Swimming Pool(s)",
+              "Recreation Facilities",
+              "Garage - 2 or more",
+              "Garage - 1 or more",
+              "Two or More Stories",
+              "Central Air",
+              "Forced Air",
+              "Lease Option",
+              "Pets Allowed"
+            ],
+            "parking": {},
+            "parsed_address": {
+              "city": "Corona"
+            },
+            "permissions": {
+              "dogs": true,
+              "cats": true,
+              "dogs_small": true,
+              "dogs_large": true
+            },
+            "pet_policy": "cats_and_dogs",
+            "photo_count": 21,
+            "photos": [{
+                "href": "http://ap.rdcpix.com/1227355931/d1ccceaf94890cc274bdd69f71400d1dl-m0s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1728125562/d1ccceaf94890cc274bdd69f71400d1dl-m1s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/138582528/d1ccceaf94890cc274bdd69f71400d1dl-m2s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/394438213/d1ccceaf94890cc274bdd69f71400d1dl-m3s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/138582528/d1ccceaf94890cc274bdd69f71400d1dl-m4s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/42038880/d1ccceaf94890cc274bdd69f71400d1dl-m5s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1976802458/d1ccceaf94890cc274bdd69f71400d1dl-m6s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1290799981/d1ccceaf94890cc274bdd69f71400d1dl-m7s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1418608367/d1ccceaf94890cc274bdd69f71400d1dl-m8s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1755299792/d1ccceaf94890cc274bdd69f71400d1dl-m9s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/397542632/d1ccceaf94890cc274bdd69f71400d1dl-m10s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/83876716/d1ccceaf94890cc274bdd69f71400d1dl-m11s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/323183991/d1ccceaf94890cc274bdd69f71400d1dl-m12s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1586678863/d1ccceaf94890cc274bdd69f71400d1dl-m13s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1755299792/d1ccceaf94890cc274bdd69f71400d1dl-m14s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/602104365/d1ccceaf94890cc274bdd69f71400d1dl-m15s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/548083378/d1ccceaf94890cc274bdd69f71400d1dl-m16s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/11733383/d1ccceaf94890cc274bdd69f71400d1dl-m17s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1717155388/d1ccceaf94890cc274bdd69f71400d1dl-m18s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1881634693/d1ccceaf94890cc274bdd69f71400d1dl-m19s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/2015652671/d1ccceaf94890cc274bdd69f71400d1dl-m20s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              }
+            ],
+            "price": 2500,
+            "price_history": [{
+              "date": "2017-06-11T05:29:48.603Z",
+              "price": 2500
+            }],
+            "product_code": 536870912,
+            "prop_type": "condo",
+            "property": {
+              "id": 2274159660,
+              "prop_status": "for_rent",
+              "permalink": "5936-Silveira-St_Corona_CA_92880_M22741-59660"
+            },
+            "provider_url": [],
+            "raw_products": [
+              "social_bios"
+            ],
+            "reduced": false,
+            "rex_codes": [
+              "CRPOOL",
+              "ELOTFT",
+              "IFBA",
+              "Text_for_Directions",
+              "EP#GAR",
+              "EPGAR",
+              "ESTOR",
+              "ICOLFT",
+              "IHACEN",
+              "IHACNB",
+              "IHACNU",
+              "FAREA",
+              "CSDIST",
+              "FLLSE",
+              "CRFEAT",
+              "CPETS"
+            ],
+            "source": "mls",
+            "sqft": 2600,
+            "status": "active",
+            "status_id": 6,
+            "stories": "2",
+            "udb_id": 1182021278,
+            "year_built": 2017
+          }
+        },
+        {
+          "_id": 605730236,
+          "listing": {
+            "address": {
+              "city": "Eastvale",
+              "street_name": "Silveira",
+              "line": "5946 Silveira St",
+              "postal_code": "92880",
+              "state": "California",
+              "state_code": "CA",
+              "country": "USA",
+              "county": "",
+              "geo_approximation": 0
+            },
+            "advertisers": [{
+                "email": "220254.lead@cendant.leadrouter.com",
+                "id": 1581314656,
+                "advertiser_id": 1891169,
+                "billing_id": "2788408",
+                "name": "Eric Lu",
+                "phone": [{
+                    "number": "(626) 227-4908",
+                    "type": "office"
+                  },
+                  {
+                    "number": "(626) 810-6660",
+                    "type": "broker"
+                  }
+                ],
+                "type": "agent",
+                "sales_type": "agent",
+                "agent_system_id": "TRLUERIC",
+                "agent_system_id_short": "TRLUERIC",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065809317
+                }
+              },
+              {
+                "email": "cbgeorge@fivestreet.me",
+                "href": "http://www.cbgeorgerealty.com",
+                "id": 1192294694,
+                "advertiser_id": 105768,
+                "billing_id": "330726",
+                "name": "Coldwell Banker George Realty",
+                "phone": [{
+                    "number": "(626) 810-6660",
+                    "type": "office"
+                  },
+                  {
+                    "number": "(800) 643-6743",
+                    "type": "toll_free"
+                  }
+                ],
+                "photo": {
+                  "href": "http://ap.rdcpix.com/2138754351/9ac18ffe568e26b96bef06f3303ea1cdo-c0s.jpg"
+                },
+                "address": {
+                  "city": "Rowland  Heights",
+                  "state_code": "CA",
+                  "state": "California"
+                },
+                "slogan": "3 GREAT LOCATIONS...2 GREAT NAMES...1 GREAT RESULT!!",
+                "type": "office",
+                "sales_type": "office",
+                "office_system_id": "8298",
+                "office_system_id_short": "8298",
+                "meta": {
+                  "udb_id": null,
+                  "last_modified": 15065807715
+                }
+              }
+            ],
+            "baths": 3,
+            "baths_full": 2,
+            "baths_half": 1,
+            "beds": 3,
+            "contact": {
+              "email": "woshiericlu@hotmail.com"
+            },
+            "custom_search_area": [
+              "Corona,CA|^2493",
+              "Eastvale,CA|^179429"
+            ],
+            "data_flags": [
+              "internet_remarks",
+              "suppress_map_pin",
+              "suppress_foreclosure",
+              "suppress_agent"
+            ],
+            "deleted": false,
+            "description": "This Brand New Home located in Eastvale features 3 Bedrooms and 2 Bath with 2194 sqft.. Easy access to freeway 15, 60 and 71. Close drive to the shopping plaza and grocery store.",
+            "features": [{
+                "category": "Bedrooms",
+                "text": [
+                  "Bedrooms: 3"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Bathrooms",
+                "text": [
+                  "Full Bathrooms: 2",
+                  "Half Bathrooms: 1",
+                  "Main Level Bathrooms: 1"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Other rooms",
+                "text": [
+                  "All Bedrooms Up"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Interior Features",
+                "text": [
+                  "Furnished: Unfurnished"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Building and Construction",
+                "text": [
+                  "Levels or Stories: 2"
+                ],
+                "parent_category": "Features"
+              },
+              {
+                "category": "Exterior and Lot Features",
+                "text": [
+                  "Park Or Green Belt",
+                  "0-1 Unit/Acre"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Waterfront and Water Access",
+                "text": [
+                  "Water Source: Public"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Garage and Parking",
+                "text": [
+                  "Number of Garage Spaces: 2",
+                  "Garage: Attached",
+                  "Parking Total: 2.00"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "Heating and Cooling",
+                "text": [
+                  "Heating Features: Central Furnace",
+                  "Cooling Features: Central",
+                  "Heating YN: Yes",
+                  "Cooling YN: Yes"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Utilities",
+                "text": [
+                  "Unknown"
+                ],
+                "parent_category": "Features"
+              },
+              {
+                "category": "Appliances",
+                "text": [
+                  "On Upper Level",
+                  "Laundry YN: Yes"
+                ],
+                "parent_category": "Interior"
+              },
+              {
+                "category": "Amenities and Community Features",
+                "text": [
+                  "Sidewalks",
+                  "Street Lighting",
+                  "Pool",
+                  "Barbecue",
+                  "Club House"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Pool and Spa",
+                "text": [
+                  "Community Pool"
+                ],
+                "parent_category": "Exterior"
+              },
+              {
+                "category": "School Information",
+                "text": [
+                  "School District: Corona-Norco Unified"
+                ],
+                "parent_category": "Community"
+              },
+              {
+                "category": "Other Property Info",
+                "text": [
+                  "City: Eastvale",
+                  "State: CA",
+                  "Area: 249 - Eastvale",
+                  "County: Riverside",
+                  "Directions: Limonite and Scholar",
+                  "Property Subtype: condo",
+                  "View: Yes"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Listing Information",
+                "text": [
+                  "Listing Status: Active Under Contract",
+                  "Listing Date: 2017-06-08 00:00:00",
+                  "Status Date: 2017-06-08 00:00:00.000"
+                ],
+                "parent_category": "Listing"
+              },
+              {
+                "category": "Rental Info",
+                "text": [
+                  "Rent Includes: Association Dues"
+                ],
+                "parent_category": "Community"
+              }
+            ],
+            "garage": "2",
+            "id": 605730236,
+            "is_senior": false,
+            "last_refreshed": "2017-06-14T21:41:54.297Z",
+            "last_update": "2017-06-14T00:34:00.000Z",
+            "list_date": "2017-06-08T07:00:00.000Z",
+            "listing_provider_url": {
+              "url": "http://www.cbgeorgerealty.com",
+              "type": "xadvertiser_url",
+              "level": "office"
+            },
+            "lot_sqft": 0,
+            "meta": {
+              "sign_rider": [{
+                "product_suppressions": true,
+                "sign_rider": {
+                  "href": "http://www.cbgeorgerealty.com",
+                  "text": "COLDWELL BANKER GEORGE REALTY",
+                  "photo": {
+                    "href": "http://p.rdcpix.com/v02/f289d0100-c0s.gif"
+                  }
+                }
+              }],
+              "control_flags": {
+                "_t": "ControlFlags",
+                "MlsSuppressionRules": {
+                  "datasource_id": 430,
+                  "suppress_mapping": false,
+                  "display_broker": false,
+                  "display_internet_remark": true,
+                  "suppress_address": false,
+                  "suppress_agent": true,
+                  "suppress_listing_sqft": false,
+                  "suppress_listing_date": false,
+                  "suppress_foreclosure": true,
+                  "suppress_sales_history": false,
+                  "suppress_tax_assessment": false,
+                  "suppress_sold_price": false,
+                  "suppress_recently_offmarket": false
+                }
+              },
+              "database_partition_id": 2,
+              "mpr_id": 2774317246,
+              "property_id": 111619860,
+              "listing_id": 32941152,
+              "master_listing_id": 605730236,
+              "datasource_id": 430,
+              "datasource_name": "    ",
+              "listing_last_modified_ts": 15067479222,
+              "se_last_modified_ts": 5961900340,
+              "version": "1.0.0.0",
+              "scoring_token": "2774317246",
+              "md5": "4AC6C23F5CEB2F44C98EF1C882760855",
+              "date_added": "2017-06-14T08:08:23.621Z"
+            },
+            "mls": {
+              "id": "TR17129558",
+              "abbreviation": "MRCA",
+              "name": "CRMLS",
+              "disclaimer": {
+                "text": "© 2017, California Regional Multiple Listing Service, Inc.  All Rights Reserved."
+              }
+            },
+            "monthly_fees": {},
+            "normalized_features": [
+              "View",
+              "Central Heat",
+              "Forced Air",
+              "Central Air",
+              "Lease Option",
+              "Two or More Stories",
+              "Community Swimming Pool(s)",
+              "Recreation Facilities",
+              "Community Clubhouse(s)",
+              "Garage - 2 or more",
+              "Garage - 1 or more"
+            ],
+            "parking": {},
+            "parsed_address": {
+              "city": "Eastvale"
+            },
+            "pet_policy": "no_policy",
+            "photo_count": 9,
+            "photos": [{
+                "href": "http://ap.rdcpix.com/1158284868/b1091cff9dbb5863a70390aba21cd92bl-m0s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1046628902/b1091cff9dbb5863a70390aba21cd92bl-m1s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1612253859/b1091cff9dbb5863a70390aba21cd92bl-m2s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/2025638639/b1091cff9dbb5863a70390aba21cd92bl-m3s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/508837783/b1091cff9dbb5863a70390aba21cd92bl-m4s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/849821183/b1091cff9dbb5863a70390aba21cd92bl-m5s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/548224904/b1091cff9dbb5863a70390aba21cd92bl-m6s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/904356424/b1091cff9dbb5863a70390aba21cd92bl-m7s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              },
+              {
+                "href": "http://ap.rdcpix.com/1240057854/b1091cff9dbb5863a70390aba21cd92bl-m8s.jpg",
+                "description": null,
+                "width": null,
+                "height": null
+              }
+            ],
+            "price": 2400,
+            "price_history": [{
+                "date": "2017-06-09T00:38:16.600Z",
+                "price": 2300
+              },
+              {
+                "date": "2017-06-12T16:39:52.813Z",
+                "price": 2400
+              }
+            ],
+            "product_attributes": {
+              "broker": {
+                "logo_url": "https://ap.rdcpix.com/1501075935/5e96fca1feb5508c8dc8062f0dca6581k-c0o.jpg",
+                "accent_color": "#142f54",
+                "display_agent_branding_for_broker_bought_brand_product": true,
+                "display_office_branding_for_broker_bought_brand_product": true
+              }
+            },
+            "product_code": 536870912,
+            "products": [
+              "core.agent",
+              "core.broker",
+              "listing_owner_lead.broker",
+              "listing_owner_brand.broker"
+            ],
+            "prop_type": "condo",
+            "property": {
+              "id": 2774317246,
+              "prop_status": "for_rent",
+              "permalink": "5946-Silveira-St_Eastvale_CA_92880_M27743-17246"
+            },
+            "provider_url": [{
+              "url": "http://www.cbgeorgerealty.com",
+              "type": "xadvertiser_url",
+              "level": "office"
+            }],
+            "raw_products": [
+              "social_bios"
+            ],
+            "reduced": false,
+            "rex_codes": [
+              "EVWFT",
+              "CSDIST",
+              "FAREA",
+              "IHETFT",
+              "IHACHT",
+              "IHACHB",
+              "IHACHU",
+              "IHEAT",
+              "ICOLFT",
+              "IHACEN",
+              "IHACNB",
+              "IHACNU",
+              "FLLSE",
+              "ESTOR",
+              "Text_for_Directions",
+              "IHBA",
+              "IFBA",
+              "ELOTFT",
+              "CRPOOL",
+              "CRCLUB",
+              "EP#GAR",
+              "EPGAR",
+              "EPATTC",
+              "CRFEAT"
+            ],
+            "source": "mls",
+            "sqft": 2194,
+            "status": "active",
+            "status_id": 6,
+            "stories": "2",
+            "udb_id": 1181904312,
+            "year_built": 2017
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1900 @@
+{
+  "meta": {
+    "version": "1.27.180",
+    "data_key": "results",
+    "count_key": "count",
+    "total_key": "total"
+  },
+  "results": [
+    {
+      "neighborhoods": [
+        {
+          "city": "Dallas",
+          "level": "R",
+          "name": "Beckley Estates",
+          "id": 4323464,
+          "state_code": "TX"
+        },
+        {
+          "city": "Dallas",
+          "level": "macro_neighborhood",
+          "name": "South Central Dallas",
+          "id": 4238754,
+          "state_code": "TX"
+        }
+      ],
+      "address": {
+        "boundary": {
+          "coordinates": [
+            -96.820723,
+            32.66754
+          ],
+          "type": "Point"
+        },
+        "country": "USA",
+        "city": "Dallas",
+        "line": "215 Acme St",
+        "county": "Dallas",
+        "street_name": "Acme",
+        "street_suffix": "St",
+        "street_number": "215",
+        "location": {
+          "lon": -96.820723,
+          "lat": 32.66754
+        },
+        "state": "Texas",
+        "postal_code": "75241",
+        "address_validation_code": "121",
+        "state_code": "TX"
+      },
+      "stories": 1,
+      "prop_common": {
+        "bed": 3,
+        "bath_full": 1,
+        "garage": "Attached Garage",
+        "sold_price": 0,
+        "type": "single_family",
+        "lot_sqft": 20164,
+        "price": 95365,
+        "search_bath": 1,
+        "sqft": 1330,
+        "year_built": 1959,
+        "permalink": "215-Acme-St_Dallas_TX_75241_M71127-12392",
+        "bath": 1,
+        "status": "recently_sold"
+      },
+      "county": {
+        "name": "Dallas",
+        "id": 4249872
+      },
+      "property_history": [
+        {
+          "date": "11/30/2016",
+          "price_changed": 0,
+          "price": 0,
+          "event_name": "Sold",
+          "sqft": 1330,
+          "datasource_name": "",
+          "source": "Public Record"
+        }
+      ],
+      "display_recently_sold": true,
+      "when_indexed": "2017-05-14T07:24:07Z",
+      "property_id": 7112712392,
+      "mpr_id": 7112712392,
+      "search_areas": [
+        {
+          "city": "dallas",
+          "state_code": "tx"
+        }
+      ],
+      "sold_date": "2016-11-30T00:00:00",
+      "tax_history": [
+        {
+          "assessment": {
+            "total": 40540,
+            "land": 8000,
+            "building": 32540
+          },
+          "year": 2016,
+          "tax": 1102
+        },
+        {
+          "assessment": {
+            "total": 40540,
+            "land": 8000,
+            "building": 32540
+          },
+          "year": 2015,
+          "tax": 1112
+        },
+        {
+          "assessment": {
+            "total": 40540,
+            "land": 8000,
+            "building": 32540
+          },
+          "year": 2014,
+          "tax": 1108
+        }
+      ],
+      "avm_history": [
+        {
+          "date": "2017-05-01",
+          "value": 95365
+        }
+      ],
+      "id": 7112712392,
+      "public_records": [
+        {
+          "exterior1": "Brick Veneer",
+          "date_updated": "12/14/2016",
+          "stories": 1,
+          "garage": "Attached Garage",
+          "units": 1,
+          "prop_type": "single_family",
+          "baths_full": 1,
+          "year_renovated": 1959,
+          "distinct_baths": 1,
+          "roofing": "Composition Shingle",
+          "baths": 1,
+          "garage_spaces": 1,
+          "cl_id": "164D6A52238C6B1D5515F663C4691057",
+          "cooling": "Central",
+          "construction": "Wood Frame",
+          "sqft": 1330,
+          "year_built": 1959,
+          "lot_size": 20164,
+          "heating": "Central",
+          "beds": 3
+        }
+      ]
+    },
+    {
+      "neighborhoods": [
+        {
+          "city": "Dallas",
+          "level": "neighborhood",
+          "name": "Highland Hills",
+          "id": 4202362,
+          "state_code": "TX"
+        },
+        {
+          "city": "Dallas",
+          "level": "macro_neighborhood",
+          "name": "South Central Dallas",
+          "id": 4238754,
+          "state_code": "TX"
+        }
+      ],
+      "address": {
+        "boundary": {
+          "coordinates": [
+            -96.751244,
+            32.677502
+          ],
+          "type": "Point"
+        },
+        "country": "USA",
+        "city": "Dallas",
+        "line": "4130 Happy Canyon Dr",
+        "county": "Dallas",
+        "street_name": "Happy Canyon",
+        "street_suffix": "Dr",
+        "street_number": "4130",
+        "location": {
+          "lon": -96.751244,
+          "lat": 32.677502
+        },
+        "state": "Texas",
+        "postal_code": "75241",
+        "address_validation_code": "121",
+        "state_code": "TX"
+      },
+      "stories": 1,
+      "prop_common": {
+        "bed": 3,
+        "bath_full": 1,
+        "bath_half": 1,
+        "garage": "Attached Garage",
+        "sold_price": 0,
+        "type": "single_family",
+        "lot_sqft": 8198,
+        "price": 66034,
+        "search_bath": 2,
+        "sqft": 1170,
+        "year_built": 1968,
+        "permalink": "4130-Happy-Canyon-Dr_Dallas_TX_75241_M76622-18830",
+        "bath": 2,
+        "status": "recently_sold"
+      },
+      "county": {
+        "name": "Dallas",
+        "id": 4249872
+      },
+      "property_history": [
+        {
+          "date": "03/29/2017",
+          "price_changed": 0,
+          "price": 0,
+          "event_name": "Sold",
+          "sqft": 1170,
+          "datasource_name": "",
+          "source": "Public Record"
+        }
+      ],
+      "display_recently_sold": true,
+      "when_indexed": "2017-05-14T07:39:00Z",
+      "property_id": 7662218830,
+      "mpr_id": 7662218830,
+      "search_areas": [
+        {
+          "city": "dallas",
+          "state_code": "tx"
+        }
+      ],
+      "sold_date": "2017-03-29T00:00:00",
+      "tax_history": [
+        {
+          "assessment": {
+            "total": 46790,
+            "land": 10000,
+            "building": 36790
+          },
+          "year": 2016,
+          "tax": 1272
+        },
+        {
+          "assessment": {
+            "total": 40690,
+            "land": 7000,
+            "building": 33690
+          },
+          "year": 2015,
+          "tax": 1116
+        },
+        {
+          "assessment": {
+            "total": 40690,
+            "land": 7000,
+            "building": 33690
+          },
+          "year": 2014,
+          "tax": 1112
+        }
+      ],
+      "avm_history": [
+        {
+          "date": "2017-05-01",
+          "value": 66034
+        }
+      ],
+      "id": 7662218830,
+      "public_records": [
+        {
+          "exterior1": "Brick Veneer",
+          "stories": 1,
+          "date_updated": "04/12/2017",
+          "garage": "Attached Garage",
+          "units": 1,
+          "prop_type": "single_family",
+          "baths_full": 1,
+          "year_renovated": 1968,
+          "distinct_baths": 2,
+          "roofing": "Composition Shingle",
+          "baths": 1.5,
+          "garage_spaces": 1,
+          "cl_id": "CC4CA6B0B421E40C6D16655F4999C0AB",
+          "baths_half": 1,
+          "construction": "Wood Frame",
+          "sqft": 1170,
+          "year_built": 1968,
+          "lot_size": 8198,
+          "heating": "Central",
+          "beds": 3
+        }
+      ]
+    },
+    {
+      "neighborhoods": [
+        {
+          "city": "Dallas",
+          "level": "residential_neighborhood",
+          "name": "Villages Of Runyon Springs",
+          "id": 4215899,
+          "state_code": "TX"
+        },
+        {
+          "city": "Dallas",
+          "level": "neighborhood",
+          "name": "Singing Hills",
+          "id": 4202494,
+          "state_code": "TX"
+        },
+        {
+          "city": "Dallas",
+          "level": "macro_neighborhood",
+          "name": "South Central Dallas",
+          "id": 4238754,
+          "state_code": "TX"
+        }
+      ],
+      "address": {
+        "boundary": {
+          "coordinates": [
+            -96.794745,
+            32.667921
+          ],
+          "type": "Point"
+        },
+        "country": "USA",
+        "city": "Dallas",
+        "line": "1617 Duet Dr",
+        "county": "Dallas",
+        "street_name": "Duet",
+        "street_suffix": "Dr",
+        "street_number": "1617",
+        "location": {
+          "lon": -96.794745,
+          "lat": 32.667921
+        },
+        "state": "Texas",
+        "postal_code": "75241",
+        "address_validation_code": "121",
+        "state_code": "TX"
+      },
+      "stories": 1,
+      "prop_common": {
+        "bed": 3,
+        "bath_full": 2,
+        "garage": "Attached Garage",
+        "sold_price": 0,
+        "type": "single_family",
+        "lot_sqft": 5001,
+        "price": 131494,
+        "search_bath": 2,
+        "sqft": 1314,
+        "year_built": 2004,
+        "permalink": "1617-Duet-Dr_Dallas_TX_75241_M88794-55141",
+        "bath": 2,
+        "status": "recently_sold"
+      },
+      "county": {
+        "name": "Dallas",
+        "id": 4249872
+      },
+      "property_history": [
+        {
+          "date": "04/03/2017",
+          "price_changed": 0,
+          "price": 0,
+          "event_name": "Sold",
+          "sqft": 1314,
+          "datasource_name": "",
+          "source": "Public Record"
+        }
+      ],
+      "display_recently_sold": true,
+      "when_indexed": "2017-05-12T21:08:08Z",
+      "property_id": 8879455141,
+      "mpr_id": 8879455141,
+      "search_areas": [
+        {
+          "city": "dallas",
+          "state_code": "tx"
+        }
+      ],
+      "sold_date": "2017-04-03T00:00:00",
+      "tax_history": [
+        {
+          "assessment": {
+            "total": 84180,
+            "land": 16000,
+            "building": 68180
+          },
+          "year": 2016,
+          "tax": 2289
+        },
+        {
+          "assessment": {
+            "total": 73460,
+            "land": 16000,
+            "building": 57460
+          },
+          "year": 2015,
+          "tax": 2014
+        },
+        {
+          "assessment": {
+            "total": 64470,
+            "land": 16000,
+            "building": 48470
+          },
+          "year": 2014,
+          "tax": 1762
+        }
+      ],
+      "avm_history": [
+        {
+          "date": "2017-05-01",
+          "value": 131494
+        }
+      ],
+      "id": 8879455141,
+      "public_records": [
+        {
+          "exterior1": "Brick Veneer",
+          "stories": 1,
+          "date_updated": "04/18/2017",
+          "garage": "Attached Garage",
+          "units": 1,
+          "prop_type": "single_family",
+          "fireplace": "Yes",
+          "baths_full": 2,
+          "year_renovated": 2004,
+          "distinct_baths": 2,
+          "roofing": "Composition Shingle",
+          "baths": 2,
+          "cl_id": "1BD7BD8A977ACDD84B2AAF03FF12B288",
+          "cooling": "Central",
+          "construction": "Brick",
+          "sqft": 1314,
+          "year_built": 2004,
+          "lot_size": 5001,
+          "heating": "Central",
+          "beds": 3
+        }
+      ]
+    },
+    {
+      "neighborhoods": [
+        {
+          "city": "Dallas",
+          "level": "neighborhood",
+          "name": "RANDCO",
+          "id": 4238935,
+          "state_code": "TX"
+        },
+        {
+          "city": "Dallas",
+          "level": "macro_neighborhood",
+          "name": "North Central Dallas",
+          "id": 4238768,
+          "state_code": "TX"
+        }
+      ],
+      "stories": 1,
+      "address": {
+        "boundary": {
+          "coordinates": [
+            -96.766372,
+            32.926704
+          ],
+          "type": "Point"
+        },
+        "country": "USA",
+        "city": "Dallas",
+        "line": "13217 Emily Rd Apt 3104",
+        "county": "Dallas",
+        "street_name": "Emily",
+        "street_suffix": "Rd",
+        "street_number": "13217",
+        "unit_value": "Apt 3104",
+        "location": {
+          "lon": -96.766372,
+          "lat": 32.926704
+        },
+        "state": "Texas",
+        "postal_code": "75240",
+        "address_validation_code": "111",
+        "state_code": "TX"
+      },
+      "prop_common": {
+        "bath_full": 1,
+        "bath_half": 1,
+        "price": 93021,
+        "search_bath": 2,
+        "sqft": 886,
+        "year_built": 1982,
+        "sold_price": 0,
+        "permalink": "13217-Emily-Rd-Apt-3104_Dallas_TX_75240_M78969-10228",
+        "type": "condo",
+        "bath": 2,
+        "status": "recently_sold",
+        "lot_sqft": 90304
+      },
+      "county": {
+        "name": "Dallas",
+        "id": 4249872
+      },
+      "property_history": [
+        {
+          "date": "01/09/2017",
+          "price_changed": 0,
+          "price": 0,
+          "event_name": "Sold",
+          "sqft": 886,
+          "datasource_name": "",
+          "source": "Public Record"
+        }
+      ],
+      "display_recently_sold": true,
+      "when_indexed": "2017-06-09T22:17:13Z",
+      "property_id": 7896910228,
+      "listings": [
+        {
+          "selling_agent_id": "0410797",
+          "mls_id": "NTTX",
+          "listing_id": 605588895,
+          "listing_status": "OffMarket",
+          "selling_office_id": "DIHR01",
+          "is_rental": true,
+          "product_name": "basic_opt_in",
+          "branding": {
+            "listing_office": {
+              "list_item": {
+                "name": null,
+                "photo": null,
+                "phone": null,
+                "slogan": null,
+                "show_realtor_logo": false,
+                "link": null,
+                "accent_color": null
+              }
+            }
+          },
+          "lead_forms": [
+            {
+              "form_type": "classic",
+              "lead_type": "co_broke",
+              "show_contact_a_lender": true,
+              "show_veterans_united": false
+            }
+          ],
+          "client_flags": {
+            "is_price_reduced": false
+          }
+        },
+        {
+          "selling_agent_id": "0410797",
+          "mls_id": "NTTX",
+          "listing_id": 529678371,
+          "listing_status": "OffMarket",
+          "selling_office_id": "DIHR01",
+          "is_rental": true,
+          "photos": [
+            {
+              "href": "http://p.rdcpix.com/v01/l445e3e43-m0s.jpg"
+            },
+            {
+              "href": "http://p.rdcpix.com/v01/l445e3e43-m1s.jpg"
+            },
+            {
+              "href": "http://p.rdcpix.com/v01/l445e3e43-m2s.jpg"
+            },
+            {
+              "href": "http://p.rdcpix.com/v01/l445e3e43-m3s.jpg"
+            }
+          ],
+          "product_name": "basic_opt_in",
+          "branding": {
+            "listing_office": {
+              "list_item": {
+                "name": null,
+                "photo": null,
+                "phone": null,
+                "slogan": null,
+                "show_realtor_logo": false,
+                "link": null,
+                "accent_color": null
+              }
+            }
+          },
+          "lead_forms": [
+            {
+              "form_type": "classic",
+              "lead_type": "co_broke",
+              "show_contact_a_lender": true,
+              "show_veterans_united": false
+            }
+          ],
+          "client_flags": {
+            "is_price_reduced": false
+          }
+        },
+        {
+          "selling_agent_id": "0312507",
+          "mls_id": "NTTX",
+          "listing_id": 526477019,
+          "listing_status": "OffMarket",
+          "selling_office_id": "SIGN01",
+          "is_rental": true,
+          "product_name": "basic_opt_in",
+          "branding": {
+            "listing_office": {
+              "list_item": {
+                "name": null,
+                "photo": null,
+                "phone": null,
+                "slogan": null,
+                "show_realtor_logo": false,
+                "link": null,
+                "accent_color": null
+              }
+            }
+          },
+          "lead_forms": [
+            {
+              "form_type": "classic",
+              "lead_type": "co_broke",
+              "show_contact_a_lender": true,
+              "show_veterans_united": false
+            }
+          ],
+          "client_flags": {
+            "is_price_reduced": false
+          }
+        },
+        {
+          "selling_agent_id": "0312507",
+          "mls_id": "NTTX",
+          "listing_id": 526389715,
+          "listing_status": "OffMarket",
+          "selling_office_id": "SIGN01",
+          "is_rental": true,
+          "product_name": "basic_opt_in",
+          "branding": {
+            "listing_office": {
+              "list_item": {
+                "name": null,
+                "photo": null,
+                "phone": null,
+                "slogan": null,
+                "show_realtor_logo": false,
+                "link": null,
+                "accent_color": null
+              }
+            }
+          },
+          "lead_forms": [
+            {
+              "form_type": "classic",
+              "lead_type": "co_broke",
+              "show_contact_a_lender": true,
+              "show_veterans_united": false
+            }
+          ],
+          "client_flags": {
+            "is_price_reduced": false
+          }
+        },
+        {
+          "selling_agent_id": "0410797",
+          "mls_id": "NTTX",
+          "listing_id": 513383639,
+          "listing_status": "OffMarket",
+          "selling_office_id": "DIHR01",
+          "is_rental": true,
+          "product_name": "basic_opt_in",
+          "branding": {
+            "listing_office": {
+              "list_item": {
+                "name": null,
+                "photo": null,
+                "phone": null,
+                "slogan": null,
+                "show_realtor_logo": false,
+                "link": null,
+                "accent_color": null
+              }
+            }
+          },
+          "lead_forms": [
+            {
+              "form_type": "classic",
+              "lead_type": "co_broke",
+              "show_contact_a_lender": true,
+              "show_veterans_united": false
+            }
+          ],
+          "client_flags": {
+            "is_price_reduced": false
+          }
+        }
+      ],
+      "mpr_id": 7896910228,
+      "search_areas": [
+        {
+          "city": "dallas",
+          "state_code": "tx"
+        }
+      ],
+      "sold_date": "2017-01-09T00:00:00",
+      "tax_history": [
+        {
+          "assessment": {
+            "total": 62020,
+            "land": 5970,
+            "building": 56050
+          },
+          "year": 2016,
+          "tax": 1753
+        },
+        {
+          "assessment": {
+            "total": 44300,
+            "land": 5970,
+            "building": 38330
+          },
+          "year": 2015,
+          "tax": 1240
+        },
+        {
+          "assessment": {
+            "total": 44300,
+            "land": 5970,
+            "building": 38330
+          },
+          "year": 2014,
+          "tax": 1236
+        }
+      ],
+      "avm_history": [
+        {
+          "date": "2017-06-01",
+          "value": 93021
+        }
+      ],
+      "id": 7896910228,
+      "public_records": [
+        {
+          "exterior1": "Stucco",
+          "date_updated": "04/04/2017",
+          "stories": 1,
+          "units": 1,
+          "prop_type": "condo",
+          "fireplace": "Yes",
+          "baths_full": 1,
+          "year_renovated": 1982,
+          "distinct_baths": 2,
+          "roofing": "Tile",
+          "baths": 1.5,
+          "cl_id": "D11DEB598E98784CE7138858F81E7BC5",
+          "baths_half": 1,
+          "cooling": "Central",
+          "sqft": 886,
+          "year_built": 1982,
+          "lot_size": 90304,
+          "heating": "Central"
+        }
+      ],
+      "forwarded_property_ids": [
+        7150373218,
+        8490652195,
+        8672603174
+      ]
+    },
+    {
+      "neighborhoods": [
+        {
+          "city": "Cockrell Hill",
+          "level": "R",
+          "name": "Fairmont Park",
+          "id": 4330501,
+          "state_code": "TX"
+        },
+        {
+          "city": "Dallas",
+          "level": "neighborhood",
+          "name": "Winnetka Heights",
+          "id": 3987750,
+          "state_code": "TX"
+        },
+        {
+          "city": "Dallas",
+          "level": "macro_neighborhood",
+          "name": "Oak Cliff",
+          "id": 4238909,
+          "state_code": "TX"
+        }
+      ],
+      "address": {
+        "boundary": {
+          "coordinates": [
+            -96.890385,
+            32.740954
+          ],
+          "type": "Point"
+        },
+        "country": "USA",
+        "city": "Dallas",
+        "line": "501 Ogden Ave",
+        "county": "Dallas",
+        "street_name": "Ogden",
+        "street_suffix": "Ave",
+        "street_number": "501",
+        "location": {
+          "lon": -96.890385,
+          "lat": 32.740954
+        },
+        "state": "Texas",
+        "postal_code": "75211",
+        "address_validation_code": "121",
+        "state_code": "TX"
+      },
+      "stories": 1,
+      "prop_common": {
+        "bed": 3,
+        "price": 101202,
+        "garage": "Detached Garage",
+        "search_bath": 1,
+        "sqft": 1150,
+        "year_built": 1950,
+        "sold_price": 0,
+        "permalink": "501-Ogden-Ave_Dallas_TX_75211_M80563-64777",
+        "type": "land",
+        "bath": 1,
+        "status": "recently_sold",
+        "lot_sqft": 9653
+      },
+      "county": {
+        "name": "Dallas",
+        "id": 4249872
+      },
+      "property_history": [
+        {
+          "date": "03/29/2017",
+          "price_changed": 0,
+          "price": 0,
+          "event_name": "Sold",
+          "sqft": 1150,
+          "datasource_name": "",
+          "source": "Public Record"
+        }
+      ],
+      "display_recently_sold": true,
+      "when_indexed": "2017-06-10T05:39:42Z",
+      "property_id": 8056364777,
+      "mpr_id": 8056364777,
+      "search_areas": [
+        {
+          "city": "dallas",
+          "state_code": "tx"
+        }
+      ],
+      "sold_date": "2017-03-29T00:00:00",
+      "tax_history": [
+        {
+          "assessment": {
+            "total": 12000,
+            "land": 12000,
+            "building": 0
+          },
+          "year": 2016,
+          "tax": 367
+        },
+        {
+          "assessment": {
+            "total": 12000,
+            "land": 12000,
+            "building": 0
+          },
+          "year": 2015,
+          "tax": 369
+        },
+        {
+          "assessment": {
+            "total": 52890,
+            "land": 12000,
+            "building": 40890
+          },
+          "year": 2014,
+          "tax": 1453
+        }
+      ],
+      "avm_history": [
+        {
+          "date": "2017-06-01",
+          "value": 101202
+        }
+      ],
+      "id": 8056364777,
+      "public_records": [
+        {
+          "exterior1": "Ribbed Aluminum",
+          "date_updated": "04/12/2017",
+          "stories": 1,
+          "garage": "Detached Garage",
+          "units": 1,
+          "prop_type": "land",
+          "year_renovated": 1950,
+          "distinct_baths": 1,
+          "roofing": "Composition Shingle",
+          "garage_spaces": 1,
+          "cl_id": "A16D732DA29A7C2D4F9025BB3F5BF7BE",
+          "cooling": "Central",
+          "construction": "Wood Frame",
+          "sqft": 1150,
+          "year_built": 1950,
+          "lot_size": 9653,
+          "heating": "Central",
+          "beds": 3
+        }
+      ]
+    },
+    {
+      "neighborhoods": [
+        {
+          "city": "Dallas",
+          "level": "R",
+          "name": "Trinity Forest Condominiums",
+          "id": 4327444,
+          "state_code": "TX"
+        },
+        {
+          "city": "Dallas",
+          "level": "neighborhood",
+          "name": "Lake Highlands",
+          "id": 4238994,
+          "state_code": "TX"
+        },
+        {
+          "city": "Dallas",
+          "level": "macro_neighborhood",
+          "name": "Northeast Dallas",
+          "id": 4239069,
+          "state_code": "TX"
+        }
+      ],
+      "address": {
+        "boundary": {
+          "coordinates": [
+            -96.741215,
+            32.908333
+          ],
+          "type": "Point"
+        },
+        "country": "USA",
+        "city": "Dallas",
+        "line": "9254 Forest Ln Apt 915",
+        "county": "Dallas",
+        "street_name": "Forest",
+        "street_suffix": "Ln",
+        "street_number": "9254",
+        "unit_value": "Apt 915",
+        "location": {
+          "lon": -96.741215,
+          "lat": 32.908333
+        },
+        "state": "Texas",
+        "postal_code": "75243",
+        "address_validation_code": "111",
+        "state_code": "TX"
+      },
+      "stories": 1,
+      "prop_common": {
+        "bed": 2,
+        "bath_full": 1,
+        "bath_half": 1,
+        "sold_price": 0,
+        "type": "condo",
+        "lot_sqft": 241283,
+        "price": 49425,
+        "search_bath": 2,
+        "sqft": 912,
+        "year_built": 1983,
+        "permalink": "9254-Forest-Ln-I915_Dallas_TX_75243_M71959-54020",
+        "bath": 2,
+        "status": "recently_sold"
+      },
+      "county": {
+        "name": "Dallas",
+        "id": 4249872
+      },
+      "property_history": [
+        {
+          "date": "02/27/2017",
+          "price_changed": 0,
+          "price": 0,
+          "event_name": "Sold",
+          "sqft": 912,
+          "datasource_name": "",
+          "source": "Public Record"
+        }
+      ],
+      "display_recently_sold": true,
+      "when_indexed": "2017-06-09T23:15:21Z",
+      "property_id": 7195954020,
+      "mpr_id": 7195954020,
+      "search_areas": [
+        {
+          "city": "dallas",
+          "state_code": "tx"
+        }
+      ],
+      "sold_date": "2017-02-27T00:00:00",
+      "tax_history": [
+        {
+          "assessment": {
+            "total": 51080,
+            "land": 22150,
+            "building": 28930
+          },
+          "year": 2016,
+          "tax": 1444
+        },
+        {
+          "assessment": {
+            "total": 45600,
+            "land": 22150,
+            "building": 23450
+          },
+          "year": 2015,
+          "tax": 1277
+        },
+        {
+          "assessment": {
+            "total": 45600,
+            "land": 22150,
+            "building": 23450
+          },
+          "year": 2014,
+          "tax": 1273
+        }
+      ],
+      "avm_history": [
+        {
+          "date": "2017-06-01",
+          "value": 49425
+        }
+      ],
+      "id": 7195954020,
+      "public_records": [
+        {
+          "exterior1": "Brick Veneer",
+          "date_updated": "03/11/2017",
+          "stories": 1,
+          "units": 1,
+          "prop_type": "condo",
+          "fireplace": "Yes",
+          "baths_full": 1,
+          "year_renovated": 1983,
+          "distinct_baths": 2,
+          "roofing": "Composition Shingle",
+          "baths": 1.5,
+          "cl_id": "1837E6BEA1C9979837BDB502C8C1D873",
+          "baths_half": 1,
+          "cooling": "Central",
+          "sqft": 912,
+          "year_built": 1983,
+          "lot_size": 241283,
+          "heating": "Central",
+          "beds": 2
+        }
+      ],
+      "forwarded_property_ids": [
+        8545420383
+      ]
+    },
+    {
+      "neighborhoods": [
+        {
+          "city": "Dallas",
+          "level": "R",
+          "name": "Ann Arbor",
+          "id": 4315308,
+          "state_code": "TX"
+        },
+        {
+          "city": "Dallas",
+          "level": "neighborhood",
+          "name": "Cedar Crest",
+          "id": 4238808,
+          "state_code": "TX"
+        },
+        {
+          "city": "Dallas",
+          "level": "macro_neighborhood",
+          "name": "South Central Dallas",
+          "id": 4238754,
+          "state_code": "TX"
+        }
+      ],
+      "address": {
+        "boundary": {
+          "coordinates": [
+            -96.769472,
+            32.702953
+          ],
+          "type": "Point"
+        },
+        "country": "USA",
+        "city": "Dallas",
+        "line": "3048 Modree Ave",
+        "county": "Dallas",
+        "street_name": "Modree",
+        "street_suffix": "Ave",
+        "street_number": "3048",
+        "location": {
+          "lon": -96.769472,
+          "lat": 32.702953
+        },
+        "state": "Texas",
+        "postal_code": "75216",
+        "address_validation_code": "121",
+        "state_code": "TX"
+      },
+      "stories": 1,
+      "prop_common": {
+        "bed": 3,
+        "bath_full": 1,
+        "garage": "Garage",
+        "sold_price": 0,
+        "type": "single_family",
+        "lot_sqft": 7065,
+        "price": 50334,
+        "search_bath": 1,
+        "sqft": 1300,
+        "year_built": 1952,
+        "permalink": "3048-Modree-Ave_Dallas_TX_75216_M75842-43438",
+        "bath": 1,
+        "status": "recently_sold"
+      },
+      "county": {
+        "name": "Dallas",
+        "id": 4249872
+      },
+      "property_history": [
+        {
+          "date": "06/09/2017",
+          "price_changed": 0,
+          "price": 95000,
+          "event_name": "Listed",
+          "sqft": 1300,
+          "datasource_name": "NTREIS",
+          "source": "MLS #13622132"
+        },
+        {
+          "date": "12/15/2016",
+          "price_changed": 0,
+          "price": 0,
+          "event_name": "Sold",
+          "sqft": 1300,
+          "datasource_name": "",
+          "source": "Public Record"
+        }
+      ],
+      "prosoft_listings": [
+        {
+          "listing_id": 622054683,
+          "listing_status": "for_sale",
+          "listing_key": "b06b8c3ac22155954a08a02ad1a6642b"
+        }
+      ],
+      "display_recently_sold": true,
+      "prosoft_listing_ids": [
+        "b06b8c3ac22155954a08a02ad1a6642b"
+      ],
+      "when_indexed": "2017-06-10T00:21:14Z",
+      "property_id": 7584243438,
+      "listings": [
+        {
+          "selling_agent_id": "0460808",
+          "mls_id": "NTTX",
+          "listing_id": 622054683,
+          "listing_status": "ForSale",
+          "selling_office_id": "HMRE01EU",
+          "photos": [
+            {
+              "href": "http://ap.rdcpix.com/133159177/b06b8c3ac22155954a08a02ad1a6642bl-m0s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/907652418/b06b8c3ac22155954a08a02ad1a6642bl-m1s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/1894113104/b06b8c3ac22155954a08a02ad1a6642bl-m2s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/2080485130/b06b8c3ac22155954a08a02ad1a6642bl-m3s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/2080229103/b06b8c3ac22155954a08a02ad1a6642bl-m4s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/931205245/b06b8c3ac22155954a08a02ad1a6642bl-m5s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/878073814/b06b8c3ac22155954a08a02ad1a6642bl-m6s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/344173940/b06b8c3ac22155954a08a02ad1a6642bl-m7s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/1260166875/b06b8c3ac22155954a08a02ad1a6642bl-m8s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/1962968885/b06b8c3ac22155954a08a02ad1a6642bl-m9s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/303953469/b06b8c3ac22155954a08a02ad1a6642bl-m10s.jpg"
+            }
+          ],
+          "product_name": "basic_opt_in",
+          "branding": {
+            "listing_office": {
+              "list_item": {
+                "name": null,
+                "photo": null,
+                "phone": null,
+                "slogan": null,
+                "show_realtor_logo": false,
+                "link": null,
+                "accent_color": null
+              }
+            }
+          },
+          "lead_forms": [
+            {
+              "form_type": "classic",
+              "lead_type": "co_broke",
+              "show_contact_a_lender": true,
+              "show_veterans_united": false
+            }
+          ],
+          "client_flags": {
+            "is_price_reduced": false
+          }
+        }
+      ],
+      "mpr_id": 7584243438,
+      "search_areas": [
+        {
+          "city": "dallas",
+          "state_code": "tx"
+        }
+      ],
+      "sold_date": "2016-12-15T00:00:00",
+      "tax_history": [
+        {
+          "assessment": {
+            "total": 39340,
+            "land": 12000,
+            "building": 27340
+          },
+          "year": 2016,
+          "tax": 1070
+        },
+        {
+          "assessment": {
+            "total": 33780,
+            "land": 11000,
+            "building": 22780
+          },
+          "year": 2015,
+          "tax": 926
+        },
+        {
+          "assessment": {
+            "total": 33780,
+            "land": 11000,
+            "building": 22780
+          },
+          "year": 2014,
+          "tax": 923
+        }
+      ],
+      "avm_history": [
+        {
+          "date": "2017-06-01",
+          "value": 50334
+        }
+      ],
+      "id": 7584243438,
+      "public_records": [
+        {
+          "exterior1": "Wood",
+          "stories": 1,
+          "date_updated": "01/04/2017",
+          "garage": "Garage",
+          "units": 1,
+          "prop_type": "single_family",
+          "baths_full": 1,
+          "year_renovated": 1952,
+          "distinct_baths": 1,
+          "roofing": "Composition Shingle",
+          "baths": 1,
+          "cl_id": "1D39D1BDB87FCE006B600CA61C814816",
+          "sqft": 1300,
+          "year_built": 1952,
+          "lot_size": 7065,
+          "heating": "Floor/Wall",
+          "beds": 3
+        }
+      ]
+    },
+    {
+      "neighborhoods": [
+        {
+          "city": "Dallas",
+          "level": "residential_neighborhood",
+          "name": "Home Gardens",
+          "id": 4216723,
+          "state_code": "TX"
+        }
+      ],
+      "stories": 1,
+      "address": {
+        "boundary": {
+          "coordinates": [
+            -96.709684,
+            32.724194
+          ],
+          "type": "Point"
+        },
+        "country": "USA",
+        "city": "Dallas",
+        "line": "658 Ezekial Ave",
+        "county": "Dallas",
+        "street_name": "Ezekial",
+        "street_suffix": "Ave",
+        "street_number": "658",
+        "location": {
+          "lon": -96.709684,
+          "lat": 32.724194
+        },
+        "state": "Texas",
+        "postal_code": "75217",
+        "address_validation_code": "121",
+        "state_code": "TX"
+      },
+      "prop_common": {
+        "bed": 3,
+        "bath_full": 1,
+        "price": 54012,
+        "search_bath": 1,
+        "sqft": 1560,
+        "year_built": 1962,
+        "sold_price": 0,
+        "permalink": "658-Ezekial-Ave_Dallas_TX_75217_M75886-58489",
+        "type": "single_family",
+        "bath": 1,
+        "status": "recently_sold",
+        "lot_sqft": 6068
+      },
+      "county": {
+        "name": "Dallas",
+        "id": 4249872
+      },
+      "property_history": [
+        {
+          "date": "03/07/2017",
+          "price_changed": 0,
+          "price": 0,
+          "event_name": "Sold",
+          "sqft": 1560,
+          "datasource_name": "",
+          "source": "Public Record"
+        }
+      ],
+      "display_recently_sold": true,
+      "when_indexed": "2017-06-09T18:47:05Z",
+      "property_id": 7588658489,
+      "listings": [
+        {
+          "selling_agent_id": "0578753",
+          "mls_id": "NTTX",
+          "listing_id": 504191739,
+          "listing_status": "OffMarket",
+          "selling_office_id": "METS01KE",
+          "is_rental": true,
+          "product_name": "basic_opt_in",
+          "branding": {
+            "listing_office": {
+              "list_item": {
+                "name": null,
+                "photo": null,
+                "phone": null,
+                "slogan": null,
+                "show_realtor_logo": false,
+                "link": null,
+                "accent_color": null
+              }
+            }
+          },
+          "lead_forms": [
+            {
+              "form_type": "classic",
+              "lead_type": "co_broke",
+              "show_contact_a_lender": true,
+              "show_veterans_united": false
+            }
+          ],
+          "client_flags": {
+            "is_price_reduced": false
+          }
+        }
+      ],
+      "mpr_id": 7588658489,
+      "search_areas": [
+        {
+          "city": "dallas",
+          "state_code": "tx"
+        }
+      ],
+      "sold_date": "2017-03-07T00:00:00",
+      "tax_history": [
+        {
+          "assessment": {
+            "total": 31890,
+            "land": 15000,
+            "building": 16890
+          },
+          "year": 2016,
+          "tax": 867
+        },
+        {
+          "assessment": {
+            "total": 31890,
+            "land": 15000,
+            "building": 16890
+          },
+          "year": 2015,
+          "tax": 874
+        },
+        {
+          "assessment": {
+            "total": 31890,
+            "land": 15000,
+            "building": 16890
+          },
+          "year": 2014,
+          "tax": 872
+        }
+      ],
+      "avm_history": [
+        {
+          "date": "2017-06-01",
+          "value": 54012
+        }
+      ],
+      "id": 7588658489,
+      "public_records": [
+        {
+          "exterior1": "Wood",
+          "date_updated": "04/01/2017",
+          "stories": 1,
+          "units": 1,
+          "prop_type": "single_family",
+          "baths_full": 1,
+          "year_renovated": 1962,
+          "distinct_baths": 1,
+          "roofing": "Composition Shingle",
+          "baths": 1,
+          "cl_id": "2A4101C7C09F90CDB11FC318C7B02143",
+          "sqft": 1560,
+          "year_built": 1962,
+          "lot_size": 6068,
+          "heating": "Central",
+          "beds": 3
+        }
+      ],
+      "forwarded_property_ids": [
+        8743112172
+      ]
+    },
+    {
+      "neighborhoods": [
+        {
+          "city": "Dallas",
+          "level": "neighborhood",
+          "name": "Wolf Creek",
+          "id": 4004908,
+          "state_code": "TX"
+        },
+        {
+          "city": "Dallas",
+          "level": "macro_neighborhood",
+          "name": "South Central Dallas",
+          "id": 4238754,
+          "state_code": "TX"
+        }
+      ],
+      "stories": 1,
+      "address": {
+        "boundary": {
+          "coordinates": [
+            -96.854097,
+            32.659528
+          ],
+          "type": "Point"
+        },
+        "country": "USA",
+        "city": "Dallas",
+        "line": "2041 Garden Crest Ln",
+        "county": "Dallas",
+        "street_name": "Garden Crest",
+        "street_suffix": "Ln",
+        "street_number": "2041",
+        "location": {
+          "lon": -96.854097,
+          "lat": 32.659528
+        },
+        "state": "Texas",
+        "postal_code": "75232",
+        "address_validation_code": "121",
+        "state_code": "TX"
+      },
+      "prop_common": {
+        "bed": 3,
+        "bath_full": 2,
+        "garage": "Attached Garage",
+        "sold_price": 0,
+        "type": "single_family",
+        "lot_sqft": 10232,
+        "price": 134694,
+        "search_bath": 2,
+        "sqft": 1502,
+        "year_built": 1986,
+        "permalink": "2041-Garden-Crest-Ln_Dallas_TX_75232_M87164-73046",
+        "bath": 2,
+        "status": "recently_sold"
+      },
+      "county": {
+        "name": "Dallas",
+        "id": 4249872
+      },
+      "property_history": [
+        {
+          "date": "05/09/2017",
+          "price_changed": 15000,
+          "price": 139900,
+          "event_name": "Price Changed",
+          "sqft": 1502,
+          "datasource_name": "NTREIS",
+          "source": "MLS #13582784"
+        },
+        {
+          "date": "04/20/2017",
+          "price_changed": 0,
+          "price": 124900,
+          "event_name": "Listed",
+          "sqft": 1502,
+          "datasource_name": "NTREIS",
+          "source": "MLS #13582784"
+        },
+        {
+          "date": "03/07/2017",
+          "price_changed": 0,
+          "price": 0,
+          "event_name": "Sold",
+          "sqft": 1502,
+          "datasource_name": "",
+          "source": "Public Record"
+        }
+      ],
+      "display_recently_sold": true,
+      "when_indexed": "2017-06-09T22:48:51Z",
+      "property_id": 8716473046,
+      "listings": [
+        {
+          "selling_agent_id": "0331713",
+          "mls_id": "NTTX",
+          "listing_id": 620167627,
+          "listing_status": "ForSale",
+          "selling_office_id": "SING01",
+          "photos": [
+            {
+              "href": "http://ap.rdcpix.com/2085242997/b51801b864658f386c89d09df0d1589al-m0s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/2055069570/b51801b864658f386c89d09df0d1589al-m1s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/2060742324/b51801b864658f386c89d09df0d1589al-m2s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/1476403658/b51801b864658f386c89d09df0d1589al-m3s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/2057119204/b51801b864658f386c89d09df0d1589al-m4s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/1054644380/b51801b864658f386c89d09df0d1589al-m5s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/1730989915/b51801b864658f386c89d09df0d1589al-m6s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/1671077651/b51801b864658f386c89d09df0d1589al-m7s.jpg"
+            },
+            {
+              "href": "http://ap.rdcpix.com/1214161347/b51801b864658f386c89d09df0d1589al-m8s.jpg"
+            }
+          ],
+          "product_name": "basic_opt_in",
+          "branding": {
+            "listing_office": {
+              "list_item": {
+                "name": null,
+                "photo": null,
+                "phone": null,
+                "slogan": null,
+                "show_realtor_logo": false,
+                "link": null,
+                "accent_color": null
+              }
+            }
+          },
+          "lead_forms": [
+            {
+              "form_type": "classic",
+              "lead_type": "co_broke",
+              "show_contact_a_lender": true,
+              "show_veterans_united": true
+            }
+          ],
+          "client_flags": {
+            "is_price_reduced": false
+          }
+        }
+      ],
+      "mpr_id": 8716473046,
+      "search_areas": [
+        {
+          "city": "dallas",
+          "state_code": "tx"
+        }
+      ],
+      "sold_date": "2017-03-07T00:00:00",
+      "tax_history": [
+        {
+          "assessment": {
+            "total": 92240,
+            "land": 20000,
+            "building": 72240
+          },
+          "year": 2016,
+          "tax": 2508
+        },
+        {
+          "assessment": {
+            "total": 84660,
+            "land": 20000,
+            "building": 64660
+          },
+          "year": 2015,
+          "tax": 2321
+        },
+        {
+          "assessment": {
+            "total": 84660,
+            "land": 20000,
+            "building": 64660
+          },
+          "year": 2014,
+          "tax": 2314
+        }
+      ],
+      "avm_history": [
+        {
+          "date": "2017-06-01",
+          "value": 134694
+        }
+      ],
+      "id": 8716473046,
+      "public_records": [
+        {
+          "exterior1": "Brick Veneer",
+          "stories": 1,
+          "date_updated": "04/01/2017",
+          "garage": "Attached Garage",
+          "units": 1,
+          "prop_type": "single_family",
+          "fireplace": "Yes",
+          "baths_full": 2,
+          "year_renovated": 1986,
+          "distinct_baths": 2,
+          "roofing": "Composition Shingle",
+          "baths": 2,
+          "cl_id": "5067B6199B84658FFBD9CF308369D2E4",
+          "cooling": "Central",
+          "construction": "Brick",
+          "sqft": 1502,
+          "year_built": 1986,
+          "lot_size": 10232,
+          "heating": "Central",
+          "beds": 3
+        }
+      ]
+    },
+    {
+      "neighborhoods": [
+        {
+          "city": "Dallas",
+          "level": "R",
+          "name": "Teagarden Place",
+          "id": 4326368,
+          "state_code": "TX"
+        },
+        {
+          "city": "Dallas",
+          "level": "neighborhood",
+          "name": "Rylie",
+          "id": 4201478,
+          "state_code": "TX"
+        }
+      ],
+      "stories": 1,
+      "address": {
+        "boundary": {
+          "coordinates": [
+            -96.662708,
+            32.668672
+          ],
+          "type": "Point"
+        },
+        "country": "USA",
+        "city": "Dallas",
+        "line": "9467 Crimnson Ct",
+        "county": "Dallas",
+        "street_name": "Crimnson",
+        "street_suffix": "Ct",
+        "street_number": "9467",
+        "location": {
+          "lon": -96.662708,
+          "lat": 32.668672
+        },
+        "state": "Texas",
+        "postal_code": "75217",
+        "address_validation_code": "121",
+        "state_code": "TX"
+      },
+      "prop_common": {
+        "bed": 3,
+        "bath_full": 2,
+        "garage": "Attached Garage",
+        "sold_price": 0,
+        "type": "single_family",
+        "lot_sqft": 3302,
+        "price": 118413,
+        "search_bath": 2,
+        "sqft": 1602,
+        "year_built": 1997,
+        "permalink": "9467-Crimnson-Ct_Dallas_TX_75217_M85937-85860",
+        "bath": 2,
+        "status": "recently_sold"
+      },
+      "county": {
+        "name": "Dallas",
+        "id": 4249872
+      },
+      "property_history": [
+        {
+          "date": "03/16/2017",
+          "price_changed": 0,
+          "price": 0,
+          "event_name": "Sold",
+          "sqft": 1602,
+          "datasource_name": "",
+          "source": "Public Record"
+        },
+        {
+          "date": "02/03/2017",
+          "price_changed": 0,
+          "price": 120000,
+          "event_name": "Listed",
+          "sqft": 1602,
+          "datasource_name": "NTREIS",
+          "source": "MLS #13532561"
+        }
+      ],
+      "display_recently_sold": true,
+      "when_indexed": "2017-06-09T22:48:12Z",
+      "property_id": 8593785860,
+      "listings": [
+        {
+          "selling_agent_id": "0490655",
+          "mls_id": "NTTX",
+          "listing_id": 617819735,
+          "listing_status": "OffMarket",
+          "selling_office_id": "BSARE01",
+          "product_name": "basic_opt_in",
+          "branding": {
+            "listing_office": {
+              "list_item": {
+                "name": null,
+                "photo": null,
+                "phone": null,
+                "slogan": null,
+                "show_realtor_logo": false,
+                "link": null,
+                "accent_color": null
+              }
+            }
+          },
+          "lead_forms": [
+            {
+              "form_type": "classic",
+              "lead_type": "co_broke",
+              "show_contact_a_lender": true,
+              "show_veterans_united": true
+            }
+          ],
+          "client_flags": {
+            "is_price_reduced": false
+          }
+        }
+      ],
+      "mpr_id": 8593785860,
+      "search_areas": [
+        {
+          "city": "dallas",
+          "state_code": "tx"
+        }
+      ],
+      "sold_date": "2017-03-16T00:00:00",
+      "tax_history": [
+        {
+          "assessment": {
+            "total": 107450,
+            "land": 14000,
+            "building": 93450
+          },
+          "year": 2016,
+          "tax": 2922
+        },
+        {
+          "assessment": {
+            "total": 94010,
+            "land": 14000,
+            "building": 80010
+          },
+          "year": 2015,
+          "tax": 2578
+        },
+        {
+          "assessment": {
+            "total": 76660,
+            "land": 14000,
+            "building": 62660
+          },
+          "year": 2014,
+          "tax": 2095
+        }
+      ],
+      "avm_history": [
+        {
+          "date": "2017-06-01",
+          "value": 118413
+        }
+      ],
+      "id": 8593785860,
+      "public_records": [
+        {
+          "exterior1": "Brick Veneer",
+          "stories": 1,
+          "date_updated": "04/04/2017",
+          "garage": "Attached Garage",
+          "units": 1,
+          "prop_type": "single_family",
+          "fireplace": "Yes",
+          "baths_full": 2,
+          "year_renovated": 1997,
+          "distinct_baths": 2,
+          "roofing": "Composition Shingle",
+          "baths": 2,
+          "cl_id": "2246ECB9EAD50C745F6A616DFFC9D4E2",
+          "cooling": "Central",
+          "construction": "Brick",
+          "sqft": 1602,
+          "year_built": 1997,
+          "lot_size": 3302,
+          "heating": "Central",
+          "beds": 3
+        }
+      ]
+    }
+  ],
+  "count": 10,
+  "total": 6678
+}
